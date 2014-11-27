@@ -125,9 +125,9 @@
 
     :array_0
     .array-data 4
-        0x7f020106
-        0x7f020108
-        0x7f020107
+        0x7f020109
+        0x7f02010b
+        0x7f02010a
     .end array-data
 
     .line 46
@@ -314,9 +314,9 @@
     move-result-object v0
 
     .line 383
-    new-instance v1, Lcom/xiaomi/miclick/activity/ai;
+    new-instance v1, Lcom/xiaomi/miclick/activity/aj;
 
-    invoke-direct {v1, p0, p1}, Lcom/xiaomi/miclick/activity/ai;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;)V
+    invoke-direct {v1, p0, p1}, Lcom/xiaomi/miclick/activity/aj;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/view/animation/Animation;->setAnimationListener(Landroid/view/animation/Animation$AnimationListener;)V
 
@@ -337,9 +337,9 @@
     move-result-object v0
 
     .line 226
-    new-instance v1, Lcom/xiaomi/miclick/activity/ac;
+    new-instance v1, Lcom/xiaomi/miclick/activity/ad;
 
-    invoke-direct {v1, p0, p2, p1}, Lcom/xiaomi/miclick/activity/ac;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;Landroid/view/View;)V
+    invoke-direct {v1, p0, p2, p1}, Lcom/xiaomi/miclick/activity/ad;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;Landroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/view/animation/Animation;->setAnimationListener(Landroid/view/animation/Animation$AnimationListener;)V
 
@@ -404,16 +404,16 @@
     check-cast v0, Landroid/animation/ValueAnimator;
 
     .line 307
-    new-instance v1, Lcom/xiaomi/miclick/activity/af;
+    new-instance v1, Lcom/xiaomi/miclick/activity/ag;
 
-    invoke-direct {v1, p0, p2}, Lcom/xiaomi/miclick/activity/af;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;)V
+    invoke-direct {v1, p0, p2}, Lcom/xiaomi/miclick/activity/ag;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;Landroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/animation/ValueAnimator;->addUpdateListener(Landroid/animation/ValueAnimator$AnimatorUpdateListener;)V
 
     .line 322
-    new-instance v1, Lcom/xiaomi/miclick/activity/ag;
+    new-instance v1, Lcom/xiaomi/miclick/activity/ah;
 
-    invoke-direct {v1, p0, p3, p1}, Lcom/xiaomi/miclick/activity/ag;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;ILandroid/view/View;)V
+    invoke-direct {v1, p0, p3, p1}, Lcom/xiaomi/miclick/activity/ah;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;ILandroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/animation/ValueAnimator;->addListener(Landroid/animation/Animator$AnimatorListener;)V
 
@@ -834,9 +834,9 @@
 
     move-result-object v0
 
-    new-instance v2, Lcom/xiaomi/miclick/activity/aa;
+    new-instance v2, Lcom/xiaomi/miclick/activity/ab;
 
-    invoke-direct {v2, p0}, Lcom/xiaomi/miclick/activity/aa;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;)V
+    invoke-direct {v2, p0}, Lcom/xiaomi/miclick/activity/ab;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;)V
 
     invoke-virtual {v0, v2}, Landroid/view/ViewTreeObserver;->addOnGlobalLayoutListener(Landroid/view/ViewTreeObserver$OnGlobalLayoutListener;)V
 
@@ -875,9 +875,9 @@
     .line 111
     iget-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->g:Landroid/widget/EditText;
 
-    new-instance v2, Lcom/xiaomi/miclick/activity/ab;
+    new-instance v2, Lcom/xiaomi/miclick/activity/ac;
 
-    invoke-direct {v2, p0}, Lcom/xiaomi/miclick/activity/ab;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;)V
+    invoke-direct {v2, p0}, Lcom/xiaomi/miclick/activity/ac;-><init>(Lcom/xiaomi/miclick/activity/SearchActivity;)V
 
     invoke-virtual {v0, v2}, Landroid/widget/EditText;->addTextChangedListener(Landroid/text/TextWatcher;)V
 

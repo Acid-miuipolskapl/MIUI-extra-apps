@@ -95,10 +95,10 @@
 
     move-result-object v0
 
-    check-cast v0, Lcom/xiaomi/miclick/util/bi;
+    check-cast v0, Lcom/xiaomi/miclick/util/bj;
 
     .line 135
-    iget-object v0, v0, Lcom/xiaomi/miclick/util/bi;->d:Ljava/lang/String;
+    iget-object v0, v0, Lcom/xiaomi/miclick/util/bj;->d:Ljava/lang/String;
 
     .line 136
     iget-object v1, p0, Lcom/xiaomi/miclick/core/action/ae;->a:Lcom/xiaomi/miclick/core/action/OpenAppAction;
