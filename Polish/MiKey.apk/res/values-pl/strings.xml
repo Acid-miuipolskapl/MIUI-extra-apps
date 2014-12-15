@@ -247,7 +247,12 @@ Kliknij znak + i wybierz swoje narzędzia"</string>
 	<string name="mikey_sprite_toggle_title">MiKey otwiera tryb Elf</string>
     <string name="webpage_title">Otwórz stronę www</string>
     <string name="webpage_input_title">Podaj adres URL</string>
-    <string name="screenkey_title">Przycisk Shield</string>
+    <string name="screenkey_title">Trzy przyciski pod ekranem</string>
+	<string name="screenkey_disabled">Wyłączenie przycisków ekranowych</string>
+    <string name="screenkey_enabled">Włączenie przycisków ekranowych</string>
+    <string name="privacy_mode_title">Tryb Gość</string>
+    <string name="privacy_mode_started">Rozpoczęto tryb Gość</string>
+    <string name="privacy_mode_end">Zakończono tryb Gość</string>
 	<string name="faq_title">Pytania i odpowiedzi (wskazówki)</string>
     <string name="faq_speed_title">Nieprawidłowe kliknięcia?</string>
     <string name="faq_speed_text">Różne urządzenia mogą mieć inny czas reakcji na naciśnięcia przycisku. Możesz dostosować szybkość kliknięć do własnego rytmu.</string>

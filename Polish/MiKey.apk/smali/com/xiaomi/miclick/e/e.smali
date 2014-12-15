@@ -28,7 +28,7 @@
 
     .prologue
     .line 28
-    const v0, 0x7f03001d
+    const v0, 0x7f03001e
 
     const/4 v1, 0x0
 
@@ -42,7 +42,7 @@
     if-eqz v0, :cond_1
 
     .line 30
-    const v1, 0x7f0a0071
+    const v1, 0x7f0b0072
 
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->findViewById(I)Landroid/view/View;
 
@@ -54,7 +54,7 @@
     if-eqz v1, :cond_0
 
     .line 32
-    const v2, 0x7f02014c
+    const v2, 0x7f02014a
 
     invoke-virtual {v1, v2}, Landroid/widget/ImageView;->setImageResource(I)V
 
