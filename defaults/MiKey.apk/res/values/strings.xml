@@ -286,4 +286,26 @@ From the top of the screen slide downwards to use it."</string>
   <string name="privacy_mode_title">Privacy mode</string>
   <string name="screenkey_disabled">Screen button disabled</string>
   <string name="screenkey_enabled">Screen button enabled</string>
+  <string name="tab_combo">Combo</string>
+  <string name="privacy_mode_first_hint">For the first time visitor mode, set by the system is turned on guest mode</string>
+  <string name="enable_mad_click">Enable mad mode</string>
+  <string name="dialog_title_mad_click">Prompt</string>
+  <string name="disable_mad_click">Disable mad mode</string>
+  <string name="dialog_content_mad_click">Continuous Clicks:</string>
+  <string name="combo_customize_desc">"Packages can define their own
+Set in its own good meters below the key page click into combo
+OK it"</string>
+  <string name="combo_edit">Edit</string>
+  <string name="combo_edit_title">Edit Combo</string>
+  <string name="combo_saveas_already_saved_desc">The current settings have been saved in the combo</string>
+  <string name="combo_saveas_desc">Description of the combo</string>
+  <string name="combo_saveas_name">Name</string>
+  <string name="combo_saveas_name_empty">Unnamed</string>
+  <string name="combo_saveas_title">Fill in the information package</string>
+  <string name="combo_speed_fast">Fast</string>
+  <string name="combo_speed_medium">Medium</string>
+  <string name="combo_speed_prefix">Speed:</string>
+  <string name="combo_speed_slow">Slow</string>
+  <string name="combo_standard_text">This combo can meet basic daily use, especially if you do not have a clear idea of the standard combo is a good choice.</string>
+  <string name="combo_standard_title">Standard Combo</string>
 </resources>
