@@ -3,7 +3,7 @@
 .source "OpenAppAction.java"
 
 # interfaces
-.implements Lcom/xiaomi/miclick/core/i;
+.implements Lcom/xiaomi/miclick/core/k;
 
 
 # instance fields

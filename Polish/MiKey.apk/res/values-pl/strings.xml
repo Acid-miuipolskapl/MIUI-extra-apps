@@ -30,7 +30,8 @@
     <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
     <string name="app_name">MiKey</string>
     <string name="tab_mikey">MiKey</string>
-    <string name="tab_mikey_sprite">MiKey Elf</string>
+    <string name="tab_mikey_sprite">Elf</string>
+	<string name="tab_combo">Pakiety</string>
     <string name="notify_title_sprite">MiKey Elf</string>
     <string name="notify_content_sprite">Kliknij X, by wyjść z trybu</string>
     <string name="notify_ticker_sprite">MiKey Elf działa</string>
@@ -253,6 +254,23 @@ Kliknij znak + i wybierz swoje narzędzia"</string>
     <string name="privacy_mode_title">Tryb Gość</string>
     <string name="privacy_mode_started">Rozpoczęto tryb Gość</string>
     <string name="privacy_mode_end">Zakończono tryb Gość</string>
+	<string name="privacy_mode_first_hint">Podczas pierwszego użycia, ustawiony jest tryb gościa</string>
+    <string name="combo_standard_title">Standardowy</string>
+    <string name="combo_standard_text">Pakiet do stosowania na codzień.</string>
+    <string name="combo_speed_prefix">Reakcja:\u0020</string>
+    <string name="combo_speed_slow">Wolna</string>
+    <string name="combo_speed_medium">Umiarkowana</string>
+    <string name="combo_speed_fast">Szybka</string>
+    <string name="combo_saveas_title">Uzupełnij informacje</string>
+    <string name="combo_edit_title">Edytowanie informacji o pakiecie</string>
+    <string name="combo_saveas_name">Nazwa pakietu</string>
+    <string name="combo_saveas_name_empty">Brak nazwy</string>
+    <string name="combo_saveas_desc">Opis pakietu</string>
+    <string name="combo_customize_desc">"Możesz zdefiniować własny pakiet.
+Ustawić własne parametry.
+Wybierz MiKey, dostosuj ustawienia i kliknij \"Dodaj Pakiet\""</string>
+    <string name="combo_saveas_already_saved_desc">Ustawienia zostały zapisane w pakiecie</string>
+    <string name="combo_edit">Edytuj</string>
 	<string name="faq_title">Pytania i odpowiedzi (wskazówki)</string>
     <string name="faq_speed_title">Nieprawidłowe kliknięcia?</string>
     <string name="faq_speed_text">Różne urządzenia mogą mieć inny czas reakcji na naciśnięcia przycisku. Możesz dostosować szybkość kliknięć do własnego rytmu.</string>
@@ -283,4 +301,8 @@ W trybie MiKey Elf nie można korzystać z jego zaprogramowanych funkcji"</strin
     <string name="dialog_title_disable_mikey_sprite">Zakończyć tryb MiKey Elf</string>
     <string name="splash_mikey_sprite">"Przesuń biały punkt w dowolne miejsce ekranu.
 Kliknij lub przytrzymaj MiKey i uruchom aplikację lub dowolną funkcję znajdującą się pod punktem."</string>
+<string name="enable_mad_click">Włącz Tryb szalony</string>
+    <string name="disable_mad_click">Wyłącz Tryb szalony</string>
+    <string name="dialog_title_mad_click">Pytaj</string>
+    <string name="dialog_content_mad_click">Ciągłe kliknięcia:</string>
 </resources>
