@@ -997,7 +997,7 @@ localization_Polish_table = {
 
     activity_activity_format="%s: %s, dystans: %s",
     activity_activity_format_run="%s: %s, w biegu: %s",
-    last_night_sleeped_good_format="Ostatniej nocy spałeś przez %s Przyjemny sen prawda?",
+    last_night_sleeped_good_format="Ostatniej nocy spałeś przez %s",
     last_night_sleeped_normal_format="Ostatniej nocy spałeś przez %s",
     deep_sleep_format="Czas spędzony w głębokim śnie: %s",
 
