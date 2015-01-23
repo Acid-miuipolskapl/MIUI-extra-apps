@@ -523,6 +523,7 @@ localization_English_table = {
     challenge_to_get="%s dní od nového rekordu!",
     record_reach_max="Dosiahli ste svoj rekord!",
     new_record_born="Nový rekord!",
+    select_devices="Vyberte zariadenie na prepojenie",
  }
 
 localization_Czech_table = {
