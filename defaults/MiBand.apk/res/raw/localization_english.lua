@@ -282,6 +282,15 @@ localization_English_table = {
     weather_tips_title_0 = "Heavy pollution, try to stay indoors",
     weather_tips_title_1 = "Heavy pollution, try to stay indoors",
     weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
+    today_goal_reached_click_info="Click to see the results.",
+
+    ---------------Weight scale -------------------
+    welcome_use_weight_scale = "Welcome use weight scale",
+    welcome_use_weight_scale_not_bind = "Click to bind weight scale",
+    welcome_use_mi_health="Welcome use Mi Fit",
+
+    select_devices="Select devices to bind now",
+    daily_steps_not_comlete = "Still need %s steps to go!"
 }
 
  localization_Slovak_table = {
@@ -524,6 +533,18 @@ localization_English_table = {
     record_reach_max="Dosiahli ste svoj rekord!",
     new_record_born="Nový rekord!",
     select_devices="Vyberte zariadenie na prepojenie",
+ 
+    ---====== Weather tips ===============
+    weather_tips_title_0 = "Heavy pollution, try to stay indoors",
+    weather_tips_title_1 = "Heavy pollution, try to stay indoors",
+    weather_tips_info = "Sit-ups or jumping rope are great indoor exercises!",
+    today_goal_reached_click_info="Stlačte pre zobrazenie výsledkov.",
+
+    ---------------Weight scale -------------------
+    welcome_use_weight_scale = "Vitajte v používaní váhy",
+    welcome_use_weight_scale_not_bind = "stlačte pre prepojenie s váhou",
+    welcome_use_mi_health="Vitajte v MiBand",
+    daily_steps_not_comlete = "Stále je potrebných ešte %s krokov!"
  }
 
 localization_Czech_table = {
