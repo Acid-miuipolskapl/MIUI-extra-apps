@@ -977,7 +977,7 @@ localization_Polish_table = {
     no_data_hint_1="Chcesz pozostać szczęśliwy? Po prostu biegnij.",
     no_data_hint_2="Cardio workout will make you light and fresh every day! ",
     no_data_hint_3="Dorosłe osoby spędzają ok. 15%-20% snu w fazie głębokiej.",
-    not_binded_hint="Nie powiązałeś MiOpaski z kontem. Zrób to teraz. ",
+    not_binded_hint="Nie powiązałeś jeszcze MiOpaski z kontem. Zrób to teraz. ",
     new_record_info="Gratulacje! Właśnie pobiłeś swój dzienny rekord ilości kroków.",
     new_record_format="Nowy rekord: %d kroków, %s %d",
     today_goal_reached="Gratulacje! Osiągnąłeś dzisiaj swój cel. ",
@@ -1043,7 +1043,7 @@ localization_Polish_table = {
     ---------------Weight scale -------------------
     welcome_use_weight_scale = "Welcome use weight scale",
     welcome_use_weight_scale_not_bind = "Click to bind weight scale",
-    welcome_use_mi_health="Welcome use Mi Fit",
+    welcome_use_mi_health="Witaj w MiOpasce",
 
     select_devices="Wybierz urządzenia do powiązania z opaską",
     daily_steps_not_comlete = "Do celu brakuje %s kroków!"
