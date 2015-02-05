@@ -1027,7 +1027,7 @@ localization_Polish_table = {
     battery_very_low_info="Podłącz do ładowania",
 
     cannot_find_bracelet="Nie możesz znaleść opaski?",
-    cannot_find_bracelet_info="Upewnij się, że MiOpaska jest naładowana i znajduje się blisko",
+    cannot_find_bracelet_info="Upewnij się, że MiOpaska jest naładowana i jest w pobliżu",
 
     challenge_to_get="%s dni od pobicia nowego rekordu!",
     record_reach_max="Pobiłeś swój najwyższy rekord!",
@@ -1037,4 +1037,14 @@ localization_Polish_table = {
     weather_tips_title_0 = "Heavy pollution, try to stay indoor.",
     weather_tips_title_1 = "Heavy pollution, try to stay indoor.",
     weather_tips_info = "Situps, rope skipping and plank are great indoor sports!",
+
+    today_goal_reached_click_info="Dotknij by zobaczyć szczegóły",
+
+    ---------------Weight scale -------------------
+    welcome_use_weight_scale = "Welcome use weight scale",
+    welcome_use_weight_scale_not_bind = "Click to bind weight scale",
+    welcome_use_mi_health="Welcome use Mi Fit",
+
+    select_devices="Wybierz urządzenia do powiązania z opaską",
+    daily_steps_not_comlete = "Do celu brakuje %s kroków!"
  }
