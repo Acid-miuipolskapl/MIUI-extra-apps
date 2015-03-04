@@ -199,6 +199,8 @@ localization_English_table = {
     new_record_format="%d steps, %s %d",
     today_goal_reached="You reached your goal today!",
     week_continue_reach_goal="You",
+    unlock_password_hint="Set screen lock to keep phone secure.",
+    unlock_password_hint_info="Mi Band gives the best screen unlocker.",
 
     challenge_format="You've hit your goal for %d days in a row!",
     personal_best_format="Your longest streak is %d days!",
@@ -510,6 +512,8 @@ localization_English_table = {
     manual_lazy_subtitle_used="The streak will be added one if you hit the goal later.",
     manual_fail_ytd_title = "Sorry, the streak broken yesterday.",
     manual_fail_ytd_subtitle = "Your streak until day before yesterday is %d.",
+    unlock_password_hint="Nastavte zámok telefónu pre vašu bezpečnosť.",
+    unlock_password_hint_info="MiBand je najlepší pre odomyknutie.",
 
     get_distance_format=", celkovo %dm",
     activity_walk_format="%s Chôdza %d krokov %s",
