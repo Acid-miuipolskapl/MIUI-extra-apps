@@ -174,6 +174,7 @@ localization_English_table = {
     day='day',
     step="steps",
     km='km',
+    mile='miles',
     minute_format='%dmin',
     hour_minute_format='%dh %dm',
     hour_format='%dhrs',
@@ -227,6 +228,7 @@ localization_English_table = {
     activie_run_consumed="Burned %dcal. %s",
 
     get_distance_format="about %dm.",
+    get_distance_format_british="%d inches",
     activity_walk_format="%s Walked %d steps, %s",
     activity_walk_consumed_format="Burned %dcal%s.",
     activity_rope_skipping_format="%s jumped rope %d times",
