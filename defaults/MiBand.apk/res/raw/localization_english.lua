@@ -515,7 +515,7 @@ localization_English_table = {
     manual_fail_ytd_title = "Sorry, the streak broken yesterday.",
     manual_fail_ytd_subtitle = "Your streak until day before yesterday is %d.",
     unlock_password_hint="Nastavte zámok telefónu pre vašu bezpečnosť.",
-    unlock_password_hint_info="MiBand je najlepší pre odomyknutie.",
+    unlock_password_hint_info="MiBand je najlepší pre odomknutie.",
 
     get_distance_format=", celkovo %dm",
     activity_walk_format="%s Chôdza %d krokov %s",
@@ -732,6 +732,8 @@ localization_Czech_table = {
     last_week_walked_info_format='Ušli jste %d km a spálili %d kcal',
     last_month_walked_format='Minulý měsíc jste ušli %d kroků',
     last_month_walked_info_format='Ušli jste %d km a spálili %d kcal',
+    unlock_password_hint="Nastavte zámok telefónu pre vašu bezpečnosť.",
+    unlock_password_hint_info="MiBand je najlepší pre odomknutie.",
 
     get_over_format=", kolem %dg tuku",
     click_to_get_help="Mrkněte co dokáže MiBand",
