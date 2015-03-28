@@ -1015,9 +1015,9 @@ localization_Polish_table = {
     manual_lazy_title_used="Dzisiaj jest dzień odpoczynku!",
     manual_lazy_subtitle_used="passa zostanie dodany jeden jeśli trafisz do celu później.",
     manual_fail_ytd_title="Dobre wyniki przerwane",
-    manual_fail_ytd_subtitle="Nie osiągasz swoich celów od %d dni.",
-    unlock_password_hint="Ustaw blokadę telefonu.",
-    unlock_password_hint_info="MiOpaska może blokować dostęp do telefonu.",
+    manual_fail_ytd_subtitle="Nie osiągasz swoich celów od %d dni",
+    unlock_password_hint="Ustaw blokadę telefonu",
+    unlock_password_hint_info="Z MiOpaską możesz odblokować telefon",
 
     get_distance_format="%d m.",
     activity_walk_format="%s przeszedłeś %d kroków, %s",
