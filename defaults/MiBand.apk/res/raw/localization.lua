@@ -7,20 +7,17 @@
 
 -------------Globals----------------
 TAG = "chenee"
-zh_CN = 'zh_CN'
-zh_TW = 'zh_TW'
-en_US = 'en_US'
-en_GB = 'en_GB'
-cs_CZ = 'cs_CZ'
-sk_SK = 'sk_SK'
-pl_PL = 'pl_PL'
-en = 'en'
-cs = 'cs'
-sk = 'sk'
-pl = 'pl'
-hr = 'hr'
+--zh_CN = 'zh_CN'
+--zh_TW = 'zh_TW'
+--zh_HK = 'zh_HK'
+--en_US = 'en_US'
+--en_GB = 'en_GB'
+--en = 'en'
+--indo = 'in' --indonesia
+
 g_CurLocale = ""
-DEBUG = false
+DEBUG = true
+g_curTable = localization_English_table
 -------------Globals----------------
 
 __log = nil
@@ -45,40 +42,44 @@ function getCurLocale()
     return g_CurLocale;
 end
 
-function setCurLocale(locale)
-    g_CurLocale = locale;
-end
 
 localization_table = {
-    en = localization_English_table,
-    cs = localization_Czech_table,
-    sk = localization_Slovak_table,
-    pl = localization_Polish_table,
-    hr = localization_Croatian_table,
-    zh_CN = localization_Chinese_table,
-    zh_TW = localization_zh_rTW_table,
+    { 'en', localization_en_table},
+    { 'pl_PL', localization_pl_rPL_table},
+    { 'cs_CZ', localization_cs_rCZ_table},
+    { 'sk_SK', localization_sk_rSK_table},
+    { 'hr' , localization_hr_rHR_table},
 }
 
-function getString(string_locale)
-    curTable = localization_table[en]
 
-    if (getCurLocale() == zh_CN) then
-        curTable = localization_table[zh_CN];
-    elseif (getCurLocale() == en_US or getCurLocale() == en_GB) then
-        curTable = localization_table[en];
-    elseif (getCurLocale() == zh_TW) then
-        curTable = localization_table[zh_TW];
-    elseif (getCurLocale() == cs_CZ) then
-        curTable = localization_table[cs];
-    elseif (getCurLocale() == sk_SK) then
-        curTable = localization_table[sk];
-    elseif (getCurLocale() == pl_PL) then
-        curTable = localization_table[pl];
-    elseif (getCurLocale() == hr_HR) then
-        curTable = localization_table[hr];
+
+function setCurLocale(locale)
+    g_CurLocale = locale;
+
+    log("setCurLocale,  cur locale = " .. g_CurLocale)
+
+    for i,line in ipairs(localization_table) do
+        log("line[1] = ".. line[1])
+        if string.find(locale, line[1]) == 1 then
+            g_curTable = line[2]
+            log("find g_curTable = ".. line[1])
+
+        end
     end
 
-    return curTable[string_locale];
+    if (g_curTable == nil) then
+        log('g_curTable is nil')
+        g_curTable = localization_English_table
+    end
+end
+
+function getString(string_locale)
+    str = g_curTable[string_locale];
+
+    if (str == nil) then
+        str = localization_English_table[string_locale]
+    end
+    return str
 end
 
 function getEnglishMonthStr(month)
