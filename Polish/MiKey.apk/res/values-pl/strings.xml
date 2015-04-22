@@ -34,7 +34,7 @@
 	<string name="tab_combo">Pakiety</string>
     <string name="notify_title_sprite">MiKey Elf</string>
     <string name="notify_content_sprite">Kliknij X, by wyjść z trybu</string>
-    <string name="notify_ticker_sprite">MiKey Elf działa</string>
+    <string name="notify_ticker_sprite">Tryb MiKey Elf</string>
     <string name="chooser_dust_cap">>MiKey (tryb zatyczka)</string>
     <string name="click_type_0">Przytrzymaj</string>
     <string name="click_type_1">1x</string>
@@ -176,6 +176,7 @@ Możesz utworzyć własny zestaw funkcji!
 
 Pasek z funkcjami znajdziesz
 na rozwijanym pasku powiadomień!"</string>
+    <string name="setting_inner_sprite">MiKey Elf</string>
     <string name="task_title_prefix">%1$s: %2$s</string>
     <string name="setting_feedback">Spostrzeżenia (online)</string>
     <string name="setting_speed_desc">"Dostosuj szybkość kliknięć.
@@ -207,6 +208,22 @@ Kliknij znak + i wybierz swoje narzędzia"</string>
     <string name="setting_speed_max_time">1000</string>
     <string name="setting_speed_middle_time">500ms</string>
     <string name="setting_speed_min_time">0</string>
+	<string name="setting_inner_sprite_title">MiKey Elf</string>
+    <string name="setting_inner_sprite_desc">"MiKey Elf nie może być równocześnie używany jako MiKey i Elf!
+W trybie MiKey Elf możesz uruchomić apk i uruchamiać określone funkcje, np. migawkę, obracanie zdjęć itp."</string>
+    <string name="setting_inner_call_title">Telefon</string>
+    <string name="setting_inner_call_desc">Klik: Odbierz/Zakończ</string>
+    <string name="setting_inner_camera_title">Kamera</string>
+    <string name="setting_inner_camera_desc">"Klik: Foto
+Przytrzymanie: Seryjne foto"</string>
+    <string name="setting_inner_reader_title">Apk do czytania</string>
+    <string name="setting_inner_reader_desc">"Obecnie wspiera: read.douban, kindle, Mi Reader, sprawdź inne.
+Klik: Dalej
+2x Klik: Wstecz"</string>
+    <string name="setting_inner_im_title">Chat apk</string>
+    <string name="setting_inner_im_desc">"Obecnie wspiera: QQ, Mi Talk,
+Internet voice chat
+Przytrzymanie: Wyślij głos"</string>
     <string name="notification_recorder_start">Trwa nagrywanie...</string>
     <string name="notification_control_stop">Stop</string>
     <string name="notification_control_play">Odtwórz</string>
@@ -245,7 +262,7 @@ Kliknij znak + i wybierz swoje narzędzia"</string>
 	<string name="scrennshot_select_title">Wybierz sposób przechwycenia ekranu</string>
     <string name="screenshot_full">Pełny ekran</string>
     <string name="screenshot_crop">Do przycięcia</string>
-	<string name="mikey_sprite_toggle_title">MiKey otwiera tryb Elf</string>
+	<string name="mikey_sprite_toggle_title">MiKey w trybie Elf</string>
     <string name="webpage_title">Otwórz stronę www</string>
     <string name="webpage_input_title">Podaj adres URL</string>
     <string name="screenkey_title">Trzy przyciski pod ekranem</string>
@@ -296,6 +313,9 @@ Wybierz MiKey, dostosuj ustawienia i kliknij \"Dodaj Pakiet\""</string>
     <string name="hint_mikey_sprite">"Klikasz MiKey i uruchamiasz funkcje na ekranie.
 Uruchamiaj aplikacje, rób zdjęcia, graj w gry...
 W trybie MiKey Elf nie można korzystać z jego zaprogramowanych funkcji"</string>
+    <string name="hint_mikey_before_link">Nie mogą być użyte</string>
+    <string name="hint_mikey_during_link">MiKey w trybie Elf</string>
+    <string name="hint_mikey_after_link">Kliknij aby dowiedzieć się o MiKey Elf</string>
     <string name="enable_mikey_sprite">Uruchom tryb MiKey Elf</string>
     <string name="disable_mikey_sprite">Zakończ tryb MiKey Elf</string>
     <string name="dialog_title_disable_mikey_sprite">Zakończyć tryb MiKey Elf</string>
@@ -303,6 +323,10 @@ W trybie MiKey Elf nie można korzystać z jego zaprogramowanych funkcji"</strin
 Kliknij lub przytrzymaj MiKey i uruchom aplikację lub dowolną funkcję znajdującą się pod punktem."</string>
 <string name="enable_mad_click">Włącz Tryb szalony</string>
     <string name="disable_mad_click">Wyłącz Tryb szalony</string>
-    <string name="dialog_title_mad_click">Pytaj</string>
-    <string name="dialog_content_mad_click">Ciągłe kliknięcia:</string>
+    <string name="dialog_title_mad_click">Wprowadź odpowiednią częstotliwość kliknięć</string>
+    <string name="inner_mikey_btn_text"><u>Spróbuj trybu MiKey Elf</u></string>
+    <string name="madclick_toast">Kliknij</string>
+    <string name="madclick_toast_min">Nie mniej niż 0</string>
+    <string name="madclick_toast_max">Nie więcej niż 10000</string>
+    <string name="madclick_toast_illigal">Wprowadź numer</string>
 </resources>

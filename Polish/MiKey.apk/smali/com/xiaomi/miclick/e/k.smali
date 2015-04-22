@@ -28,7 +28,7 @@
 
     .prologue
     .line 26
-    const v0, 0x7f030024
+    const v0, 0x7f030026
 
     const/4 v1, 0x0
 
@@ -42,7 +42,7 @@
     if-eqz v0, :cond_1
 
     .line 28
-    const v1, 0x7f0b0088
+    const v1, 0x7f0b008b
 
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->findViewById(I)Landroid/view/View;
 
@@ -54,7 +54,7 @@
     if-eqz v1, :cond_0
 
     .line 30
-    const v2, 0x7f02015a
+    const v2, 0x7f020164
 
     invoke-virtual {v1, v2}, Landroid/widget/ImageView;->setImageResource(I)V
 
@@ -75,7 +75,7 @@
 
     .prologue
     .line 41
-    const-string v0, "http://miuipolska.pl"
+    const-string v0, "http://miuipolska.pl/"
 
     invoke-virtual {v0}, Ljava/lang/String;->isEmpty()Z
 
@@ -84,7 +84,7 @@
     if-nez v0, :cond_0
 
     .line 42
-    const-string v0, "http://miuipolska.pl"
+    const-string v0, "http://miuipolska.pl/"
 
     invoke-static {v0}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
 
