@@ -774,6 +774,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
     if-eqz v0, :cond_1
@@ -819,8 +827,12 @@
     .locals 1
 
     .prologue
-    .line 139
+    .line 136
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3W:Z
 
     if-nez v0, :cond_0
 
@@ -881,8 +893,12 @@
     .locals 1
 
     .prologue
-    .line 147
+    .line 142
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -910,8 +926,12 @@
     .locals 1
 
     .prologue
-    .line 200
+    .line 195
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -943,8 +963,12 @@
     .locals 1
 
     .prologue
-    .line 175
+    .line 170
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -1083,8 +1107,12 @@
     .locals 1
 
     .prologue
-    .line 143
+    .line 140
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -1283,8 +1311,12 @@
     .locals 1
 
     .prologue
-    .line 151
+    .line 148
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -1312,7 +1344,15 @@
     .locals 1
 
     .prologue
-    .line 226
+    .line 158
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
 
     if-nez v0, :cond_0
@@ -1497,6 +1537,10 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
 
     if-nez v0, :cond_0
@@ -1525,8 +1569,12 @@
     .locals 1
 
     .prologue
-    .line 163
+    .line 158
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
@@ -1535,10 +1583,6 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
 
     if-eqz v0, :cond_1
 
@@ -1559,11 +1603,11 @@
 
     .prologue
     .line 94
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
 
     if-nez v0, :cond_0
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI3:Z
 
     if-nez v0, :cond_0
 
