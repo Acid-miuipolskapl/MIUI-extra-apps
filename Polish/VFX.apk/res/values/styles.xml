@@ -149,6 +149,8 @@
         <item name="android:background">@drawable/list_section_divider_holo_light</item>
         <item name="android:paddingTop">10.0dip</item>
         <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
         <item name="android:textAllCaps">true</item>
     </style>
     <style name="Widget.Holo.Light.ActionButton.Overflow" parent="@android:style/Widget.Holo.Light.ActionButton">
