@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_window_focused="false" android:state_enabled="false" android:color="@android:color/dim_foreground_disabled_holo_light" />
+    <item android:state_window_focused="false" android:color="@color/test" />
+    <item android:state_enabled="false" android:state_pressed="true" android:color="@android:color/dim_foreground_disabled_holo_light" />
+    <item android:state_enabled="false" android:state_selected="true" android:color="@android:color/dim_foreground_disabled_holo_light" />
+    <item android:state_pressed="true" android:color="@color/test" />
+    <item android:state_selected="true" android:color="@color/test" />
+    <item android:color="@android:color/bright_foreground_holo_light" android:state_activated="true" />
+    <item android:state_enabled="false" android:color="@android:color/dim_foreground_disabled_holo_light" />
+    <item android:color="@color/test" />
+</selector>
