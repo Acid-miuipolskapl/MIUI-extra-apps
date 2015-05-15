@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="config_use_tabbed">false</bool>
-    <bool name="config_allow_toggle_tabbed">false</bool>
-</resources>
