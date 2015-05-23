@@ -158,7 +158,7 @@
     invoke-super {p0}, Landroid/app/Activity;->onPause()V
 
     .line 45
-    invoke-static {}, Lcom/xiaomi/miclick/util/bf;->a()V
+    invoke-static {}, Lcom/xiaomi/miclick/util/bi;->a()V
 
     .line 46
     return-void
@@ -174,7 +174,7 @@
     .line 40
     const-string v0, "start_qr_scanner_page"
 
-    invoke-static {p0, v0}, Lcom/xiaomi/miclick/util/bf;->a(Landroid/app/Activity;Ljava/lang/String;)V
+    invoke-static {p0, v0}, Lcom/xiaomi/miclick/util/bi;->a(Landroid/app/Activity;Ljava/lang/String;)V
 
     .line 41
     return-void

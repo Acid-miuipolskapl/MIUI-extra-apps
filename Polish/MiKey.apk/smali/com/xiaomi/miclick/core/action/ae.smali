@@ -48,7 +48,7 @@
 
     const/4 v4, 0x1
 
-    invoke-static {v3, v4}, Lcom/xiaomi/miclick/util/bh;->a(Landroid/content/Context;Z)Ljava/util/ArrayList;
+    invoke-static {v3, v4}, Lcom/xiaomi/miclick/util/bk;->a(Landroid/content/Context;Z)Ljava/util/ArrayList;
 
     move-result-object v3
 
@@ -80,9 +80,9 @@
 
     .prologue
     .line 133
-    check-cast p1, Lcom/xiaomi/miclick/util/al;
+    check-cast p1, Lcom/xiaomi/miclick/util/an;
 
-    invoke-virtual {p1}, Lcom/xiaomi/miclick/util/al;->a()Landroid/widget/ListView;
+    invoke-virtual {p1}, Lcom/xiaomi/miclick/util/an;->a()Landroid/widget/ListView;
 
     move-result-object v0
 
@@ -95,10 +95,10 @@
 
     move-result-object v0
 
-    check-cast v0, Lcom/xiaomi/miclick/util/bj;
+    check-cast v0, Lcom/xiaomi/miclick/util/bm;
 
     .line 135
-    iget-object v0, v0, Lcom/xiaomi/miclick/util/bj;->d:Ljava/lang/String;
+    iget-object v0, v0, Lcom/xiaomi/miclick/util/bm;->d:Ljava/lang/String;
 
     .line 136
     iget-object v1, p0, Lcom/xiaomi/miclick/core/action/ae;->a:Lcom/xiaomi/miclick/core/action/OpenAppAction;

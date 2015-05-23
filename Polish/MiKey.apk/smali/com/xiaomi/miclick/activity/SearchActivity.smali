@@ -776,7 +776,7 @@
     .locals 5
 
     .prologue
-    const v4, 0x7f0b00a2
+    const v4, 0x7f0b00a3
 
     const/4 v0, 0x1
 
@@ -841,7 +841,7 @@
     invoke-virtual {v0, v2}, Landroid/view/ViewTreeObserver;->addOnGlobalLayoutListener(Landroid/view/ViewTreeObserver$OnGlobalLayoutListener;)V
 
     .line 106
-    const v0, 0x7f0b00a4
+    const v0, 0x7f0b00a5
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -857,7 +857,7 @@
     invoke-virtual {v0, p0}, Landroid/widget/ImageButton;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 109
-    const v0, 0x7f0b00a5
+    const v0, 0x7f0b00a6
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -882,7 +882,7 @@
     invoke-virtual {v0, v2}, Landroid/widget/EditText;->addTextChangedListener(Landroid/text/TextWatcher;)V
 
     .line 141
-    const v0, 0x7f0b00a6
+    const v0, 0x7f0b00a7
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -898,7 +898,7 @@
     invoke-virtual {v0, p0}, Landroid/widget/TextView;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 144
-    const v0, 0x7f0b00a7
+    const v0, 0x7f0b00a8
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -927,7 +927,7 @@
     invoke-virtual {v0, v2}, Landroid/graphics/drawable/Drawable;->setAlpha(I)V
 
     .line 149
-    const v0, 0x7f0b00ad
+    const v0, 0x7f0b00ae
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -941,7 +941,7 @@
     invoke-virtual {v0, p0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 151
-    const v0, 0x7f0b00ae
+    const v0, 0x7f0b00af
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -950,7 +950,7 @@
     iput-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->p:Landroid/view/View;
 
     .line 152
-    const v0, 0x7f0b00b0
+    const v0, 0x7f0b00b1
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -961,7 +961,7 @@
     iput-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->q:Landroid/widget/ImageButton;
 
     .line 153
-    const v0, 0x7f0b00af
+    const v0, 0x7f0b00b0
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -972,7 +972,7 @@
     iput-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->r:Landroid/widget/TextView;
 
     .line 155
-    const v0, 0x7f0b00a9
+    const v0, 0x7f0b00aa
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -986,7 +986,7 @@
     invoke-virtual {v0, p0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 157
-    const v0, 0x7f0b00aa
+    const v0, 0x7f0b00ab
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -995,7 +995,7 @@
     iput-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->t:Landroid/view/View;
 
     .line 158
-    const v0, 0x7f0b00ac
+    const v0, 0x7f0b00ad
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -1006,7 +1006,7 @@
     iput-object v0, p0, Lcom/xiaomi/miclick/activity/SearchActivity;->u:Landroid/widget/ImageButton;
 
     .line 159
-    const v0, 0x7f0b00ab
+    const v0, 0x7f0b00ac
 
     invoke-virtual {p0, v0}, Lcom/xiaomi/miclick/activity/SearchActivity;->findViewById(I)Landroid/view/View;
 
@@ -1099,7 +1099,7 @@
     invoke-super {p0}, Landroid/app/Activity;->onPause()V
 
     .line 462
-    invoke-static {}, Lcom/xiaomi/miclick/util/bf;->a()V
+    invoke-static {}, Lcom/xiaomi/miclick/util/bi;->a()V
 
     .line 463
     return-void
@@ -1115,7 +1115,7 @@
     .line 457
     const-string v0, "search_page"
 
-    invoke-static {p0, v0}, Lcom/xiaomi/miclick/util/bf;->a(Landroid/app/Activity;Ljava/lang/String;)V
+    invoke-static {p0, v0}, Lcom/xiaomi/miclick/util/bi;->a(Landroid/app/Activity;Ljava/lang/String;)V
 
     .line 458
     return-void

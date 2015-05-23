@@ -1,4 +1,4 @@
-.class public Lcom/xiaomi/miclick/e/k;
+.class public Lcom/xiaomi/miclick/d/m;
 .super Landroid/support/v4/app/Fragment;
 .source "MainImageFragment.java"
 
@@ -42,7 +42,7 @@
     if-eqz v0, :cond_1
 
     .line 28
-    const v1, 0x7f0b008b
+    const v1, 0x7f0b008c
 
     invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->findViewById(I)Landroid/view/View;
 
@@ -63,7 +63,7 @@
     invoke-virtual {v0, p0}, Landroid/view/ViewGroup;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
     .line 34
-    iput-object v0, p0, Lcom/xiaomi/miclick/e/k;->P:Landroid/view/ViewGroup;
+    iput-object v0, p0, Lcom/xiaomi/miclick/d/m;->P:Landroid/view/ViewGroup;
 
     .line 36
     :cond_1
@@ -98,21 +98,21 @@
     invoke-direct {v1, v2, v0}, Landroid/content/Intent;-><init>(Ljava/lang/String;Landroid/net/Uri;)V
 
     .line 44
-    invoke-virtual {p0, v1}, Lcom/xiaomi/miclick/e/k;->a(Landroid/content/Intent;)V
+    invoke-virtual {p0, v1}, Lcom/xiaomi/miclick/d/m;->a(Landroid/content/Intent;)V
 
     .line 45
     const-string v0, "banner_click"
 
     const-string v1, "banner2"
 
-    invoke-static {v0, v1}, Lcom/xiaomi/miclick/util/bf;->a(Ljava/lang/String;Ljava/lang/String;)V
+    invoke-static {v0, v1}, Lcom/xiaomi/miclick/util/bi;->a(Ljava/lang/String;Ljava/lang/String;)V
 
     .line 46
     invoke-static {}, Lcom/xiaomi/miclick/user/UserConfiguration;->getInstance()Lcom/xiaomi/miclick/user/UserConfiguration;
 
     move-result-object v0
 
-    iget-object v1, p0, Lcom/xiaomi/miclick/e/k;->P:Landroid/view/ViewGroup;
+    iget-object v1, p0, Lcom/xiaomi/miclick/d/m;->P:Landroid/view/ViewGroup;
 
     invoke-virtual {v1}, Landroid/view/ViewGroup;->getContext()Landroid/content/Context;
 
@@ -127,7 +127,7 @@
 
     move-result-object v0
 
-    iget-object v1, p0, Lcom/xiaomi/miclick/e/k;->P:Landroid/view/ViewGroup;
+    iget-object v1, p0, Lcom/xiaomi/miclick/d/m;->P:Landroid/view/ViewGroup;
 
     invoke-virtual {v1}, Landroid/view/ViewGroup;->getContext()Landroid/content/Context;
 
