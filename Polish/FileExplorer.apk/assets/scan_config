@@ -1,0 +1,2973 @@
+{
+    "dataList": {
+        "apps": [
+            {
+                "appId": 3,
+                "packageName": "com.tencent.mm",
+                "appName": "微信",
+                "appName_en": "WeChat",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_E8MS3LQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429844877&Signature=urOwbKJNhHL0Rw7ScWiXhBWH8g0%3D",
+                "dirName": "/Tencent/MicroMsg"
+            },
+            {
+                "appId": 4,
+                "packageName": "com.tencent.mobileqq",
+                "appName": "QQ",
+                "appName_en": "QQ",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_12G1481?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429844865&Signature=PGourG5oQ4ioKNnSn3IPn2b8%2BME%3D",
+                "dirName": "/Tencent"
+            },
+            {
+                "appId": 5,
+                "packageName": "com.sina.weibo",
+                "appName": "微博",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GF9SJKC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429844848&Signature=GSuA4zWCdi%2FZ0XeUEc5zHMfQ84k%3D",
+                "dirName": "/sina/weibo"
+            },
+            {
+                "appId": 6,
+                "packageName": "com.qiyi.video",
+                "appName": "爱奇艺视频",
+                "appName_en": "IQIYI Video",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BDPUCPP?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429844748&Signature=PTjE%2BV%2BdjYpZgheAE7sv%2FkIP6W8%3D",
+                "dirName": "/Android/data/com.qiyivideo"
+            },
+            {
+                "appId": 7,
+                "packageName": "com.immomo.momo",
+                "appName": "陌陌",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DXYQUM7?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861309&Signature=HpQ90KFHJFpo2Q4jIw8k44FOKu8%3D",
+                "dirName": "/immomo"
+            },
+            {
+                "appId": 8,
+                "packageName": "com.taobao.taobao",
+                "appName": "淘宝",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_SASUE64?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861798&Signature=10xlii064wITOYG2ruDXhqs4Weo%3D",
+                "dirName": "/Android/data/com.taobao.taobao"
+            },
+            {
+                "appId": 9,
+                "packageName": "com.youku.phone",
+                "appName": "优酷",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_MQ9KEY5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861831&Signature=JeoKhVeal6Cu7vwbtMNJVvhJbm0%3D",
+                "dirName": "/youku"
+            },
+            {
+                "appId": 10,
+                "packageName": "com.hunantv.imgo.activity",
+                "appName": "芒果TV",
+                "appName_en": "Imgo TV",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KK9LIH7?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861887&Signature=DiUFKc398icKMrdzdDt7gIeQtYw%3D",
+                "dirName": "/Android/data/com.hunantv.imgo.activity"
+            },
+            {
+                "appId": 11,
+                "packageName": "com.kugou.android",
+                "appName": "酷狗音乐",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ML1YNGD?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861940&Signature=QOMYboBe1ZIAJme1l5mejs9tWZ8%3D",
+                "dirName": "/kgmusic"
+            },
+            {
+                "appId": 12,
+                "packageName": "com.netease.cloudmusic",
+                "appName": "网易云音乐",
+                "appName_en": "NetEase Music",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_IS2SNMW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429861985&Signature=mKJTb9OG9m8wAQJ4mtyGKegwACg%3D",
+                "dirName": "/netease/cloudmusic"
+            },
+            {
+                "appId": 13,
+                "packageName": "com.tencent.qqlive",
+                "appName": "腾讯视频",
+                "appName_en": "Tencent Video",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_IF8881R?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429863808&Signature=wWo5VlbTSLF1eZHuCIDOCBnuCp4%3D",
+                "dirName": "/QQLive"
+            },
+            {
+                "appId": 14,
+                "packageName": "com.ss.android.article.news",
+                "appName": "今日头条",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CD1GFJ4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862006&Signature=giTztwxT5Lw%2BsGf8nIMVrdhRlTM%3D",
+                "dirName": "/news_article"
+            },
+            {
+                "appId": 15,
+                "packageName": "com.sankuai.meituan",
+                "appName": "美团团购",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GEMY13G?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862098&Signature=eOCPzo7HTf%2BpZ%2FLN7rSRrrys7Q8%3D",
+                "dirName": "/Android/data/com.sankuai.meituan"
+            },
+            {
+                "appId": 17,
+                "packageName": "com.smile.gifmaker",
+                "appName": "快手",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_9TR649T?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429863780&Signature=C%2BN1pVIIQkqzN2H%2FJ6p4Vsey6vk%3D",
+                "dirName": "/gifshow"
+            },
+            {
+                "appId": 16,
+                "packageName": "com.UCMobile",
+                "appName": "UC浏览器",
+                "appName_en": "UC Browser",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_JIB39C8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862264&Signature=xj8%2B2EqaCktxPopO47WQnFmml1o%3D",
+                "dirName": "/UCDownloads"
+            },
+            {
+                "appId": 19,
+                "packageName": "vStudio.Android.Camera360",
+                "appName": "相机360",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_VZ45H2I?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862396&Signature=tYj2lDlbHOd9ktdMNB1i9DER%2FI0%3D",
+                "dirName": "/Android/data/vStudio.Android.Camera360"
+            },
+            {
+                "appId": 18,
+                "packageName": "com.tencent.qqmusic",
+                "appName": "QQ音乐",
+                "appName_en": "QQMusic",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GL5Q7II?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862372&Signature=CseIQiW6ToZAZZWc6cMjNJcIlYA%3D",
+                "dirName": "/qqmusic"
+            },
+            {
+                "appId": 21,
+                "packageName": "com.xunlei.downloadprovider",
+                "appName": "迅雷",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_HCUY772?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862459&Signature=Y2b2eRW2RcRH%2Bt15UElFO5KdLCc%3D",
+                "dirName": "/ThunderDownload"
+            },
+            {
+                "appId": 20,
+                "packageName": "com.baidu.netdisk",
+                "appName": "百度云",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZIR1WO4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862431&Signature=JzZ0ZjWA5zcF%2FvRMKcFTx07VBmQ%3D",
+                "dirName": "/BaiduNetdisk"
+            },
+            {
+                "appId": 23,
+                "packageName": "com.rebeltwins.dragonhills",
+                "appName": "龙之丘",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Y47JEFL?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429865048&Signature=OR8Ro42ynGxg%2Fj3Ic4WizUiNksY%3D",
+                "dirName": "/Android/data/com.rebeltwins.dragonhills"
+            },
+            {
+                "appId": 22,
+                "packageName": "com.baidu.searchbox",
+                "appName": "手机百度",
+                "appName_en": "Baidu",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_FF2UJ5S?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862487&Signature=XrnwloOUHDCh8g%2BzKxVXtm4GY7U%3D",
+                "dirName": "/baidu"
+            },
+            {
+                "appId": 25,
+                "packageName": "com.eg.android.AlipayGphone",
+                "appName": "支付宝钱包",
+                "appName_en": "Alipay Wallet",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DBDTZ4G?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429865520&Signature=8KVZ6ZcOoW4ww2NHNlfiS1SIl%2F4%3D",
+                "dirName": "/com.eg.android.AlipayGphone"
+            },
+            {
+                "appId": 24,
+                "packageName": "com.tencent.pao",
+                "appName": "天天酷跑",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_V3I2SC9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429865411&Signature=u6B2haW2u%2Fjx0J1izMKijyZGQ%2B8%3D",
+                "dirName": "/Android/data/com.tencent.pao"
+            },
+            {
+                "appId": 27,
+                "packageName": "com.sohu.inputmethod.sogou",
+                "appName": "搜狗输入法",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_VXTZZKJ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429866457&Signature=%2FDn7CDQv21o0d6O3sTbUKjdOFaI%3D",
+                "dirName": "/sogou"
+            },
+            {
+                "appId": 26,
+                "packageName": "com.mt.mtxx.mtxx",
+                "appName": "美图秀秀",
+                "appName_en": "MeituPic",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_J37IVAC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429865569&Signature=ysV0Mpt0kO0cTsPKq%2BsEouN2NDQ%3D",
+                "dirName": "/Android/data/com.mt.mtxx.mtxx"
+            },
+            {
+                "appId": 29,
+                "packageName": "com.storm.smart",
+                "appName": "暴风影音",
+                "appName_en": "BaoFeng",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DVBRDB3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429866729&Signature=LkI6uCeFRbA8%2BcplUvUSUh7y1AM%3D",
+                "dirName": "/baofeng"
+            },
+            {
+                "appId": 28,
+                "packageName": "com.joym.xiongchumo2.mi",
+                "appName": "熊出没2",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Y9CSZBB?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429866667&Signature=BMm1B3y2BLwojS0JhdbJ1TekjIk%3D",
+                "dirName": "/Android/data/com.joym.xiongchumo2"
+            },
+            {
+                "appId": 31,
+                "packageName": "com.happyelements.AndroidAnimal",
+                "appName": "开心消消乐",
+                "appName_en": "Anipop",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_FRDVWEK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429869776&Signature=FMsxYxrjZzOKztmgQMxNMA4grWg%3D",
+                "dirName": "/Android/data/com.happyelements.AndroidAnimal"
+            },
+            {
+                "appId": 30,
+                "packageName": "com.tencent.wequiz",
+                "appName": "脑力达人",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_TSI4KI5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429869750&Signature=clDVkLEigp1HN1m32EVQX8lLuFQ%3D",
+                "dirName": "/wequiz"
+            },
+            {
+                "appId": 34,
+                "packageName": "com.snda.wifilocating",
+                "appName": "WiFi万能钥匙",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_JDATSW7?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430103837&Signature=gTVB8brD2TzSsyZQhhQbl0iA0nw%3D",
+                "dirName": "/WifiMasterKey"
+            },
+            {
+                "appId": 35,
+                "packageName": "com.duowan.mobile",
+                "appName": "YY",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_AZA6HNY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430103990&Signature=2PKvkixkFfwL5qYyicN3nTJv8gM%3D",
+                "dirName": "/Android/data/com.duowan.mobile"
+            },
+            {
+                "appId": 32,
+                "packageName": "com.letv.android.client",
+                "appName": "乐视视频",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DB81B4H?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429869839&Signature=i%2FLEuGs8EtoZeLXmmHew%2F6bmy%2Bk%3D",
+                "dirName": "/Letv"
+            },
+            {
+                "appId": 33,
+                "packageName": "com.sohu.sohuvideo",
+                "appName": "搜狐视频",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZKX6PDW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429870002&Signature=swmdLaLQq%2Bn8CRPGfwauJKwE6HE%3D",
+                "dirName": "/Android/data/com.sohu.sohuvideo"
+            },
+            {
+                "appId": 38,
+                "packageName": "com.changba",
+                "appName": "唱吧",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CSCHJQS?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430104146&Signature=p8DKmLwkxsxYtwJ%2BeXLtSKbK8Ro%3D",
+                "dirName": "/ktv"
+            },
+            {
+                "appId": 39,
+                "packageName": "com.pplive.androidphone",
+                "appName": "PPTV网络电视",
+                "appName_en": "PPTV",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_9ZMT5Z3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430884779&Signature=jpffzd%2F8KlODnGgd%2BnNmXqwhDRQ%3D",
+                "dirName": "/pptv"
+            },
+            {
+                "appId": 36,
+                "packageName": "com.tudou.android",
+                "appName": "土豆视频",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GJY9EXC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430104025&Signature=KmBEq0dJF4sMhEzk%2BGdElYn%2BBGI%3D",
+                "dirName": "/tudou"
+            },
+            {
+                "appId": 37,
+                "packageName": "com.mojang.minecraftpe",
+                "appName": "我的世界",
+                "appName_en": "MultiCraft",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CRLTBU9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430104065&Signature=JjqCIKrDXbNHZUyGMmI%2FpRvTBrc%3D",
+                "dirName": "/games/com.mojang"
+            },
+            {
+                "appId": 42,
+                "packageName": "com.jingdong.app.mall",
+                "appName": "京东",
+                "appName_en": "JD.COM",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BLXZW2Q?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430115104&Signature=uGBRsb65vD111KHCfO2eTwOty8E%3D",
+                "dirName": "/jingdong"
+            },
+            {
+                "appId": 43,
+                "packageName": "com.qqgame.hlddz",
+                "appName": "欢乐斗地主",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_JNRWEA4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430113745&Signature=WhGHinHSEQTYnQzMIhbIlRpeXWo%3D"
+            },
+            {
+                "appId": 40,
+                "packageName": "com.netease.ldxy.mi",
+                "appName": "乱斗西游",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2JR15W3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430105630&Signature=%2FGOjXvXzEeLj2fyuvYhdVyqdcq0%3D",
+                "dirName": "/netease/ldxy.mi"
+            },
+            {
+                "appId": 41,
+                "packageName": "com.achievo.vipshop",
+                "appName": "唯品会",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KBX1FOX?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430113558&Signature=dDo3KonRgSOuCQhuhezrBEdtRZ0%3D",
+                "dirName": "/vipshop"
+            },
+            {
+                "appId": 46,
+                "packageName": "com.gameley.tar.nl.mm.mi",
+                "appName": "3D狂野飞车",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_D9ZU8KZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114176&Signature=IGVNecL2nS4HP99uPZjgx4lhjno%3D",
+                "dirName": "/Android/data/com.gameley.tar.nl.mm.mi"
+            },
+            {
+                "appId": 47,
+                "packageName": "com.tencent.game.rhythmmaster",
+                "appName": "节奏大师",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XTDKUOH?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114203&Signature=RZbRJC5z3lLj7N69jOpA6SB0u3Y%3D",
+                "dirName": "/Android/data/com.tencent.game.rhythmmaster"
+            },
+            {
+                "appId": 44,
+                "packageName": "com.dianping.v1",
+                "appName": "大众点评",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_EXS5WPW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430113901&Signature=npE5dVSU%2FH%2BghkXIevx0ARXOMJo%3D",
+                "dirName": "/dianping"
+            },
+            {
+                "appId": 45,
+                "packageName": "com.baidu.video",
+                "appName": "百度视频",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_WFCU4EP?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114082&Signature=tLqO8x4f8xgogGCdXuAsfnSlq2c%3D",
+                "dirName": "/baidu/video"
+            },
+            {
+                "appId": 51,
+                "packageName": "com.xlredapple.bluetooth",
+                "appName": "蓝牙",
+                "appName_en": "Bluetooth",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_VQ54RTR?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114859&Signature=uQSH2THMWjbIMDXhar2V0i6L6yM%3D",
+                "dirName": "/bluetooth"
+            },
+            {
+                "appId": 50,
+                "packageName": "com.sankuai.movie",
+                "appName": "猫眼电影",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_HR9VUF9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114581&Signature=eUYbqhkXszbSCx7AKQE9k9R8yKw%3D",
+                "dirName": "/Android/data/com.sankuai.movie"
+            },
+            {
+                "appId": 49,
+                "packageName": "com.tencent.mtt",
+                "appName": "QQ浏览器",
+                "appName_en": "QQBrowser",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XTTC9QZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114427&Signature=Dpyy4Uksh36TldI2lA3SBVHj6Ao%3D",
+                "dirName": "/QQBrowser"
+            },
+            {
+                "appId": 48,
+                "packageName": "com.baidu.BaiduMap",
+                "appName": "百度地图",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_E6TLAV7?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114270&Signature=2N2ZdylSrq4bIBwtRrUtJT%2F%2FKVk%3D",
+                "dirName": "/BaiduMap"
+            },
+            {
+                "appId": 55,
+                "packageName": "com.android.providers.downloads.ui",
+                "appName": "系统下载",
+                "appName_en": "Download",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_TNEYAMV?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430817988&Signature=8iRMNR5pS%2B682QjkBtGJApg3B0I%3D",
+                "dirName": "/Download"
+            },
+            {
+                "appId": 54,
+                "packageName": "com.douban.frodo",
+                "appName": "豆瓣",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KVK7Y28?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430816158&Signature=Owb9s3Mo8PIAvMgy59V5lRCUsu4%3D",
+                "dirName": "/Android/data/com.douban.frodo"
+            },
+            {
+                "appId": 53,
+                "packageName": "com.xlredapple.downloadedrom",
+                "appName": "升级包",
+                "appName_en": "downloaded_rom",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_O889OBI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430817975&Signature=sD3uCUffp1f01dCJPMpFdL%2FshQM%3D",
+                "dirName": "/downloaded_rom"
+            },
+            {
+                "appId": 52,
+                "packageName": "com.xlredapple.screenshot",
+                "appName": "截屏",
+                "appName_en": "Zrzuty ekranu",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ROL5O82?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114898&Signature=IRMkLpJLbshp%2BZTJ0vXVo8MvRpo%3D",
+                "dirName": "/DCIM/Screenshots"
+            },
+            {
+                "appId": 59,
+                "packageName": "com.tencent.androidqqmail",
+                "appName": "QQ邮箱",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_X983P1W?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811341&Signature=vZcZwUmm7mCwvNygkMdzKa6eX4A%3D",
+                "dirName": "/Tencent/QQmail"
+            },
+            {
+                "appId": 58,
+                "packageName": "com.miliao.channel",
+                "appName": "米聊",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_QF8YRSS?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811356&Signature=sQTZVXaVyhQiWaYDNgVyIv4Ka8A%3D",
+                "dirName": "/miliao"
+            },
+            {
+                "appId": 57,
+                "packageName": "com.mogujie",
+                "appName": "蘑菇街",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_22NXZAW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811366&Signature=g3rY1RlmCCDQ8DjlUZc48roF8wo%3D",
+                "dirName": "/mogujie"
+            },
+            {
+                "appId": 56,
+                "packageName": "com.meilishuo",
+                "appName": "美丽说",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ASPJOG3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811378&Signature=y5YK1Yld3PfDgvUfjf6FPF3ozxM%3D",
+                "dirName": "/美丽说"
+            },
+            {
+                "appId": 63,
+                "packageName": "com.sohu.newsclient",
+                "appName": "搜狐新闻",
+                "appName_en": "SohuNews",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Y1HZABK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811272&Signature=nlJrQmkhfBJo%2F5Z0btnvT7ppB8A%3D",
+                "dirName": "/Android/data/com.sohu.newsclient"
+            },
+            {
+                "appId": 62,
+                "packageName": "com.tencent.news",
+                "appName": "腾讯新闻",
+                "appName_en": "Tencent news",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_5O7SOO2?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811303&Signature=PhlgVUAgSjin4f52KU8QAIU0y6Y%3D",
+                "dirName": "/Android/data/com.tencent.news"
+            },
+            {
+                "appId": 61,
+                "packageName": "com.zhihu.android",
+                "appName": "知乎",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_K64KYL5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811316&Signature=Z5naTdy7R3KmlVG7bele7xwo03o%3D",
+                "dirName": "/Android/data/com.zhihu.android"
+            },
+            {
+                "appId": 60,
+                "packageName": "com.netease.mobimail",
+                "appName": "网易邮箱",
+                "appName_en": "NetEase Mail",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KI2KFY2?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811330&Signature=fwSIiQh6yoIThj2YZLMS4zkdAPw%3D",
+                "dirName": "/Netease/163mail/网易邮箱"
+            },
+            {
+                "appId": 68,
+                "packageName": "com.xlredapple.miui",
+                "appName": "音乐和壁纸",
+                "appName_en": "MIUI Theme",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_B14J93O?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430818870&Signature=mQUBgFraxCK%2FIKNjIF0BPtF5tJo%3D",
+                "dirName": "/MIUI"
+            },
+            {
+                "appId": 69,
+                "packageName": "com.xunlei.screenshots",
+                "appName": "文件助手",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_77F83H5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430819877&Signature=AC5qtXoCjDt8Mm%2Fnix6iN6lNhF4%3D"
+            },
+            {
+                "appId": 70,
+                "packageName": "com.gowiper.android",
+                "appName": "Wiper",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_WLADM42?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430898326&Signature=IHQRyKHLIIkKpFepzm5P5UnsOCk%3D"
+            },
+            {
+                "appId": 71,
+                "packageName": "com.facebook.katana",
+                "appName": "Facebook",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_LL24DZF?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430898361&Signature=bJliM1jdGrM2zCt%2F%2FwgEri5qFus%3D",
+                "dirName": "/Android/data/com.facebook.katana"
+            },
+            {
+                "appId": 64,
+                "packageName": "com.xlredapple.camera",
+                "appName": "照片",
+                "appName_en": "Zdjęcia z aparatu",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_437DLEC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430128186&Signature=h0M4LJh1uxHTGiW5Y9YR291rNVM%3D",
+                "dirName": "/DCIM/Camera"
+            },
+            {
+                "appId": 65,
+                "packageName": "com.netease.newsreader.activity",
+                "appName": "网易新闻",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_UOH11DR?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430811258&Signature=iUNSkuunIQsMbQs8Dq%2FluDHERis%3D",
+                "dirName": "/Android/data/com.netease.newsreader.activity"
+            },
+            {
+                "appId": 66,
+                "packageName": "com.baidu.123",
+                "appName": "上网导航",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2V7P3IZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430812262&Signature=uSsLMUUlXXSr%2B1iauWzBXK%2FBI6M%3D",
+                "dirName": "/hao123"
+            },
+            {
+                "appId": 76,
+                "packageName": "com.iovchev.selfieseditor",
+                "appName": "RetroSelfie",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DEEJU8T?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900405&Signature=63fwfE32zeRcZSnP2U53HUFrTCs%3D",
+                "dirName": "/Android/data/com.iovchev.selfieseditor"
+            },
+            {
+                "appId": 77,
+                "packageName": "com.skype.raider",
+                "appName": "Skype",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_W5SE9CU?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900467&Signature=bkbc1SY2wxENHTCUfLOgblgH4jA%3D"
+            },
+            {
+                "appId": 78,
+                "packageName": "com.hola.launcher",
+                "appName": "Hola桌面",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CJL3RX8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900497&Signature=Chezv0kEukEElA1xAGV3LfRnjhQ%3D",
+                "dirName": "/holalauncher"
+            },
+            {
+                "appId": 79,
+                "packageName": "com.ebay.mobile",
+                "appName": "eBay",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3KDJU5K?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900525&Signature=KNWtG2y%2FymA8abO5bKo%2FlNBswmU%3D"
+            },
+            {
+                "appId": 72,
+                "packageName": "com.facebook.orca",
+                "appName": "Messenger",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_677AKVZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430898465&Signature=PNopYBIOlDOtKvMX%2F1kCtK5K%2B78%3D",
+                "dirName": "/Android/data/com.facebook.orca"
+            },
+            {
+                "appId": 73,
+                "packageName": "com.snapchat.android",
+                "appName": "Snapchat",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3L99YJQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430898524&Signature=4g7v%2BFAakirF8T8QEpJQuRV%2FGoY%3D",
+                "dirName": "/Android/data/com.snapchat.android"
+            },
+            {
+                "appId": 74,
+                "packageName": "com.instagram.android",
+                "appName": "Instagram",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_L8TIJP8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430899812&Signature=hC5dgdiRdhaWp4s2bq79SCp0sT4%3D"
+            },
+            {
+                "appId": 75,
+                "packageName": "com.viber.voip",
+                "appName": "Viber",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2K5S8PY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900325&Signature=BYv%2Bz%2F5la1FUN6Z8Wmc%2BZIugpqk%3D",
+                "dirName": "/viber"
+            },
+            {
+                "appId": 85,
+                "packageName": "com.google.android.apps.plus",
+                "appName": "Google+",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_P3BV445?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900707&Signature=H9o3qKh5F4%2Bzuw%2F5crrw3sYaF%2FI%3D"
+            },
+            {
+                "appId": 84,
+                "packageName": "org.wikipedia",
+                "appName": "维基百科",
+                "appName_en": "Wikipedia",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_FS3CW5J?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900686&Signature=uJF58DUsYspZmUjfPbl9xMoKZnI%3D",
+                "dirName": "/Android/data/org.wikipedia"
+            },
+            {
+                "appId": 87,
+                "packageName": "com.google.android.gm",
+                "appName": "Gmail",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OUQOY1U?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900764&Signature=P%2BtwBf%2BhAb8YwPLMPJNN8OkftEg%3D"
+            },
+            {
+                "appId": 86,
+                "packageName": "bbc.mobile.news.ww",
+                "appName": "BBC News",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_YDFUSJ8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900743&Signature=p9pSi65kltfPqJXxecUYBKK6ff0%3D"
+            },
+            {
+                "appId": 81,
+                "packageName": "com.twitter.android",
+                "appName": "Twitter",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_RN4W8KR?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900579&Signature=QZ9k1ta1vjrVlgNmGWGgvCK73Xk%3D",
+                "dirName": "/Android/data/com.twitter.android"
+            },
+            {
+                "appId": 80,
+                "packageName": "com.google.android.youtube",
+                "appName": "YouTube",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_PKQ938C?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900557&Signature=v3YOIT9W8EjAx7jgE8ebsGqMPeU%3D",
+                "dirName": "/Android/data/com.google.android.youtube"
+            },
+            {
+                "appId": 83,
+                "packageName": "com.opera.mini.native",
+                "appName": "Opera Mini",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GMPWNNV?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900667&Signature=v3h%2B3WBRRjzbh3f3wB6PC0z0AZM%3D"
+            },
+            {
+                "appId": 82,
+                "packageName": "com.niksoftware.snapseed",
+                "appName": "Snapseed",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_RDV7T2O?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900624&Signature=wLZsCDtei9ONqZNq9LJxtKtBkOA%3D",
+                "dirName": "/Snapseed"
+            },
+            {
+                "appId": 93,
+                "packageName": "com.joeware.android.gpulumera",
+                "appName": "糖果照相机",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_U7NBGMY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430901208&Signature=0BR%2Fq3P8g63BzwnbBDHmXioczXA%3D"
+            },
+            {
+                "appId": 92,
+                "packageName": "com.airbnb.android",
+                "appName": "Airbnb",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_N6X4OYU?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430901176&Signature=8tNjKLqAYdmojbWzGeBocF%2Fy2ew%3D"
+            },
+            {
+                "appId": 95,
+                "packageName": "com.ted.android",
+                "appName": "TED",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BUWQ32L?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430902815&Signature=RQcl4vXnIRubblKIsvn6Eq8dOJg%3D",
+                "dirName": "/Android/data/com.ted.android"
+            },
+            {
+                "appId": 94,
+                "packageName": "com.pinterest",
+                "appName": "Pinterest",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DBU3B95?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430902488&Signature=27KKBZBmefl7lTEngBjdPGysMbY%3D"
+            },
+            {
+                "appId": 89,
+                "packageName": "com.microsoft.office.officehub",
+                "appName": "Office Mobile",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_WXOXJVG?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900825&Signature=fxBB3y4Se9%2BlJt204VUcbecTq%2BI%3D",
+                "dirName": "/Android/data/com.microsoft.office.officehub"
+            },
+            {
+                "appId": 88,
+                "packageName": "com.linecorp.b612.android",
+                "appName": "B612",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OF935U1?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900784&Signature=MN2xnvuG4v7Ccx1H6sOyXDM6lVs%3D"
+            },
+            {
+                "appId": 91,
+                "packageName": "com.lyrebirdstudio.mirror",
+                "appName": "Mirror Image",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XDPMWFQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430901073&Signature=rujTTgN8YqOdNy0Ui4GxcI2ALkE%3D"
+            },
+            {
+                "appId": 90,
+                "packageName": "com.google.android.googlequicksearchbox",
+                "appName": "Google",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_IVCVGYJ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900858&Signature=zbvGDRbS2N6IarhDVKjCJU9kDz4%3D"
+            },
+            {
+                "appId": 96,
+                "packageName": "com.yahoo.mobile.client.android.weather",
+                "appName": "雅虎天气",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_WWVJEQP?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430903804&Signature=xYgUiaMgXCm1aGomt%2BZIY3Jpuzs%3D",
+                "dirName": "/yahoo/weather"
+            },
+            {
+                "appId": 102,
+                "packageName": "com.ganji.android",
+                "appName": "赶集生活",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2OU8HBY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179069&Signature=oMznkRCeuIyT87WUVq9ud5ySCAk%3D",
+                "groupName": "赶集生活截屏"
+            },
+            {
+                "appId": 103,
+                "packageName": "com.cubic.choosecar",
+                "appName": "汽车报价",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BD5AJ7Z?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179057&Signature=Qck94ZMP7iqTAN%2FRr3BuG4qQgH0%3D",
+                "groupName": "汽车报价截屏",
+                "dirName": "/ahprice"
+            },
+            {
+                "appId": 100,
+                "packageName": "com.dewmobile.kuaiya",
+                "appName": "快牙",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_O48S3WW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179096&Signature=8cEoIjjnaTyb1RtHgSEMlopKV8Q%3D",
+                "groupName": "快牙截屏",
+                "dirName": "/zapya"
+            },
+            {
+                "appId": 101,
+                "packageName": "cn.andouya",
+                "appName": "闪传",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Q75L6DA?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179081&Signature=%2BkBr9MsouFR2tC%2F5LqTgd1ZQ7fE%3D",
+                "groupName": "闪传截屏",
+                "dirName": "/Xender"
+            },
+            {
+                "appId": 98,
+                "packageName": "com.sogou.activity.src",
+                "appName": "搜狗搜索",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_1ZNVG1Q?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179174&Signature=20d8wSsPP7uuSwgJNvMxpx36Q1w%3D",
+                "groupName": "搜狗搜索截屏",
+                "dirName": "/SogouSearch"
+            },
+            {
+                "appId": 99,
+                "packageName": "com.lenovo.anyshare",
+                "appName": "茄子快传",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Z9XQ51L?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179135&Signature=1IGOSZZ2us%2F2qxgFO4oIgz0G0CU%3D",
+                "groupName": "茄子快传截屏",
+                "dirName": "/QieZi"
+            },
+            {
+                "appId": 97,
+                "packageName": "com.qihoo.browser",
+                "appName": "360浏览器",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_9LOQI6I?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179184&Signature=Oe6OCseEZP6oJ%2Bw4RXQT004F6U4%3D",
+                "groupName": "360浏览器截屏",
+                "dirName": "/360Browser"
+            },
+            {
+                "appId": 110,
+                "packageName": "com.tmall.wireless",
+                "appName": "手机天猫",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_4QM8NJS?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178985&Signature=x9g4PUwNUFhU7%2Boci4atclSh9Ts%3D",
+                "groupName": "手机天猫截屏",
+                "dirName": "/.DataStorage"
+            },
+            {
+                "appId": 111,
+                "packageName": "com.culiukeji.huanletao",
+                "appName": "楚楚街",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_M4P653I?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178972&Signature=eF5n%2BJFHxTSFdwAAvAmTzfhL2NE%3D",
+                "groupName": "楚楚街截屏",
+                "dirName": "/culiu"
+            },
+            {
+                "appId": 108,
+                "packageName": "com.baidu.tieba_mini",
+                "appName": "贴吧极速版",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_HQD2ARI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179014&Signature=pWUXQUOppw%2B1qABHeT4ZO%2FmCIHE%3D",
+                "groupName": "贴吧极速版截屏",
+                "dirName": "/tiebaMini"
+            },
+            {
+                "appId": 109,
+                "packageName": "com.nuomi",
+                "appName": "百度糯米",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BTQRWWH?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179005&Signature=J6VgzikyQ0DLoQZPYSmgsA3lRuQ%3D",
+                "groupName": "百度糯米截屏"
+            },
+            {
+                "appId": 106,
+                "packageName": "com.meitu.meiyancamera",
+                "appName": "美颜相机",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ANPZNSP?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432175751&Signature=MYE1Mbx%2FngMJvFXgew7sFD34CIo%3D",
+                "groupName": "美颜相机截屏"
+            },
+            {
+                "appId": 107,
+                "packageName": "com.baidu.tieba",
+                "appName": "百度贴吧",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_PMDZU7S?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179024&Signature=dzUSjyxlVUFhwP%2FTdC3Q%2F3DmTLI%3D",
+                "groupName": "百度贴吧截屏",
+                "dirName": "/tieba"
+            },
+            {
+                "appId": 104,
+                "packageName": "com.haodou.recipe",
+                "appName": "好豆菜谱",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ORFVPTK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179041&Signature=iEgV0r6qMtlW3qQU8MZNlCQ0U1I%3D",
+                "groupName": "好豆菜谱截屏",
+                "dirName": "/haodou"
+            },
+            {
+                "appId": 105,
+                "packageName": "com.qzone",
+                "appName": "QQ空间",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_PQ66OGW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432175730&Signature=K5CGAZe8expM6C94Ifqkn%2B9WoSM%3D",
+                "groupName": "QQ空间截屏",
+                "dirName": "/Tencent/Qzone"
+            },
+            {
+                "appId": 119,
+                "packageName": "bubei.tingshu",
+                "appName": "懒人听书",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_STIPJZ8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178793&Signature=lNUbdFUkiBCj94kxSsbLccMgoyM%3D",
+                "groupName": "懒人听书截屏",
+                "dirName": "/tingshu"
+            },
+            {
+                "appId": 118,
+                "packageName": "com.shuqi.controller",
+                "appName": "书旗小说",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_6GB636O?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178805&Signature=LccPQ4ekXdM8ZaoCrWTqfHz67I0%3D",
+                "groupName": "书旗小说截屏",
+                "dirName": "/shuqi"
+            },
+            {
+                "appId": 117,
+                "packageName": "com.ximalaya.ting.android",
+                "appName": "喜马拉雅听书",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_F5NICBA?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178829&Signature=0Soc%2FMXgwmlMxQApAUBFj5pBPY0%3D",
+                "groupName": "喜马拉雅听书截屏",
+                "dirName": "/ting"
+            },
+            {
+                "appId": 116,
+                "packageName": "cn.kuwo.player",
+                "appName": "酷我音乐",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_UXZ9ZVM?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178841&Signature=rff3qXGPdCtIG%2Fw%2BDtYnbY6LRmE%3D",
+                "groupName": "酷我音乐截屏",
+                "dirName": "/KuwoMusic"
+            },
+            {
+                "appId": 115,
+                "packageName": "com.sds.android.ttpod",
+                "appName": "天天动听",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3EMBQCG?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178854&Signature=qd8LJag6%2FO55ooIl%2FJo%2F6yXeSSI%3D",
+                "groupName": "天天动听截屏",
+                "dirName": "/ttpod"
+            },
+            {
+                "appId": 114,
+                "packageName": "com.sankuai.meituan.takeoutnew",
+                "appName": "美团外卖",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_32CLQ92?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178937&Signature=2%2FBL7pbdwdpZHyBu25jJKQ920i4%3D",
+                "groupName": "美团外卖截屏"
+            },
+            {
+                "appId": 113,
+                "packageName": "me.ele",
+                "appName": "饿了么",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_K6822PX?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178953&Signature=GSziJA9B7ZkgxqWdr%2FZ2DBSz5UI%3D",
+                "groupName": "饿了么截屏"
+            },
+            {
+                "appId": 112,
+                "packageName": "com.jm.android.jumei",
+                "appName": "聚美优品",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GTNPLPK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178963&Signature=TO91eAO%2FvyD6YxLx7JFQfk1K3Vs%3D",
+                "groupName": "聚美优品截屏",
+                "dirName": "/jumei"
+            },
+            {
+                "appId": 122,
+                "packageName": "com.moji.mjweather",
+                "appName": "墨迹天气",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_AU4XMAF?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179601&Signature=Iqf5BY1yL7pPGrHT%2Fj5kxi%2FgmLI%3D",
+                "groupName": "墨迹天气截屏",
+                "dirName": "/moji"
+            },
+            {
+                "appId": 121,
+                "packageName": "sogou.mobile.explorer",
+                "appName": "搜狗浏览器",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BMSHGP4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432179554&Signature=P6LDX%2BNo0q3ZuQyLVI3somIn5xo%3D",
+                "groupName": "搜狗浏览器截屏",
+                "dirName": "/SogouExplorer"
+            },
+            {
+                "appId": 120,
+                "packageName": "com.chaozh.iReaderFree",
+                "appName": "掌阅iReader",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KEELZQK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432178595&Signature=R5TF4anH4j%2FHsqG0w%2Fic%2FMH%2FyI8%3D",
+                "groupName": "掌阅iReader截屏",
+                "dirName": "/iReader"
+            },
+            {
+                "appId": 137,
+                "packageName": "com.android.launcher3",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_1ALLXH5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432266338&Signature=FFhJGhUhlQ%2BJsvopvVSVmw4X9Dk%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 136,
+                "packageName": "com.baozoumanhua.android",
+                "appName": "暴走漫画",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_9K37Q33?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199453&Signature=lyS4qclmap%2Fy14mtvGAt%2FjEzWBw%3D",
+                "groupName": "暴走漫画截屏",
+                "dirName": "/baoman"
+            },
+            {
+                "appId": 139,
+                "packageName": "com.dp.android.elong",
+                "appName": "艺龙旅行",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_5SGSUB9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526579&Signature=U1NwSefpo%2Fa8ruDLJGd8%2BJX%2FwAM%3D",
+                "groupName": "艺龙旅行截屏"
+            },
+            {
+                "appId": 138,
+                "packageName": "com.Qunar",
+                "appName": "去哪儿旅行",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KVFWSLY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526610&Signature=yJoY9dYg%2Bt2Io7bieyoaaIjExAg%3D",
+                "groupName": "去哪儿旅行截屏",
+                "dirName": "/Android/data/com.Qunar"
+            },
+            {
+                "appId": 141,
+                "packageName": "com.tuniu.app.ui",
+                "appName": "途牛旅游",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_AMMNVTN?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432521546&Signature=dMfm6GWyaDPR0%2F2w54V%2BNYssYg4%3D",
+                "groupName": "途牛旅游截屏",
+                "dirName": "/tuniuapp"
+            },
+            {
+                "appId": 140,
+                "packageName": "com.tongcheng.android",
+                "appName": "同程旅游",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_G3CYYB3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432521513&Signature=16iKJyJGpukFpsaIJX3FZX%2B%2BvEE%3D",
+                "groupName": "同程旅游截屏"
+            },
+            {
+                "appId": 143,
+                "packageName": "com.ushaqi.zhuishushenqi",
+                "appName": "追书神器",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_QZZDW5D?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522771&Signature=pJXMYhSspadAE%2BASGOxmgXGr0ss%3D",
+                "groupName": "追书神器截屏",
+                "dirName": "/ZhuiShuShenQi"
+            },
+            {
+                "appId": 142,
+                "packageName": "com.baidu.wenku",
+                "appName": "百度文库",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_H7TKARC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526597&Signature=YbVqCCthcqiNVUCex1KXHwjaWXw%3D",
+                "groupName": "百度文库截屏",
+                "dirName": "/BaiduWenku"
+            },
+            {
+                "appId": 129,
+                "packageName": "com.wuba",
+                "appName": "58同城",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_UQHL44N?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432180557&Signature=cPjF4LYF7NxX3pRq9z1m%2FRpC4uo%3D",
+                "groupName": "58同城截屏",
+                "dirName": "/wuba"
+            },
+            {
+                "appId": 131,
+                "packageName": "com.yoloho.dayima",
+                "appName": "大姨吗",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3AB6UEZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199190&Signature=taQdXFBOW1RhqpnFT%2F3ecCSuSYU%3D",
+                "groupName": "大姨吗截屏",
+                "dirName": "/yoloho"
+            },
+            {
+                "appId": 130,
+                "packageName": "com.douguo.recipe",
+                "appName": "豆果美食",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_71UEQQV?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199151&Signature=n9zXxRgA%2Bb6t4YbIVHH8A%2BZWiKo%3D",
+                "groupName": "豆果美食截屏",
+                "dirName": "/Douguo"
+            },
+            {
+                "appId": 133,
+                "packageName": "com.icomico.comi",
+                "appName": "可米酷漫画",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZXSFS5J?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199293&Signature=960KfxGZBYm1fYNvqz1E1BIkYts%3D",
+                "groupName": "可米酷漫画截屏",
+                "dirName": "/comicool"
+            },
+            {
+                "appId": 132,
+                "packageName": "com.lingan.seeyou",
+                "appName": "美柚",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_IARRLZ5?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199256&Signature=LoDerF0QQEdWha0RxMFMZc002FE%3D",
+                "groupName": "美柚截屏",
+                "dirName": "/com.lingan.seeyou"
+            },
+            {
+                "appId": 135,
+                "packageName": "com.ss.android.essay.joke",
+                "appName": "内涵段子",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_G84CAMI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199431&Signature=SGlHTCT7NHP7qJX8vsk1fgF9rRw%3D",
+                "groupName": "内涵段子截屏",
+                "dirName": "/joke_essay"
+            },
+            {
+                "appId": 134,
+                "packageName": "qsbk.app",
+                "appName": "糗事百科",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OJ1DAVM?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432199405&Signature=NLbEwLVdqq51NUw2BWKwz7%2BLqz8%3D",
+                "groupName": "糗事百科截屏",
+                "dirName": "/qsbk"
+            },
+            {
+                "appId": 152,
+                "packageName": "com.icoolme.android.weather",
+                "appName": "最美天气",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_82HREWJ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522002&Signature=miVBfD4x26ulTtS1Wxfhy9Yfv5g%3D",
+                "groupName": "最美天气截屏"
+            },
+            {
+                "appId": 153,
+                "packageName": "com.kingsoft",
+                "appName": "金山词霸",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_T2GT58Z?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526541&Signature=xCzgiqngE9CkOVKatHGBxeIeLuQ%3D",
+                "groupName": "金山词霸截屏",
+                "dirName": "/powerword"
+            },
+            {
+                "appId": 154,
+                "packageName": "com.youdao.dict",
+                "appName": "网易有道词典",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2XDUBL1?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522117&Signature=vuEcqBOxymLPdmbaAhGXjDX7RR4%3D",
+                "groupName": "网易有道词典截屏",
+                "dirName": "/Youdao"
+            },
+            {
+                "appId": 155,
+                "packageName": "com.budejie.www",
+                "appName": "百思不得姐",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GRWWHA1?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522377&Signature=dRt6YDk4CkB9RO9fMcXqqouJF9k%3D",
+                "groupName": "百思不得姐截屏",
+                "dirName": "/budejie"
+            },
+            {
+                "appId": 156,
+                "packageName": "com.ubercab",
+                "appName": "Uber",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OZQWT6N?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526523&Signature=%2BlRidjdru3zDSRpLvlxnyyQBqRg%3D",
+                "groupName": "Uber截屏"
+            },
+            {
+                "appId": 157,
+                "packageName": "com.sdu.didi.psnger",
+                "appName": "滴滴打车",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GSHJM9C?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522192&Signature=obM360fM5uYQygDBbFaXqJ5TaTw%3D",
+                "groupName": "滴滴打车截屏",
+                "dirName": "/didi"
+            },
+            {
+                "appId": 158,
+                "packageName": "com.zhihu.daily.android",
+                "appName": "知乎日报",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_EE6L7JI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526514&Signature=gNdaYgUO5REITuDU%2BuOyajB4sjs%3D",
+                "groupName": "知乎日报截屏"
+            },
+            {
+                "appId": 159,
+                "packageName": "com.hipu.yidian",
+                "appName": "一点资讯",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OVIXS13?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522249&Signature=rCbsAidt%2FMHdBQCQzqXnKFUo69Y%3D",
+                "groupName": "一点资讯截屏",
+                "dirName": "/.yidian"
+            },
+            {
+                "appId": 144,
+                "packageName": "com.eastmoney.android.fund",
+                "appName": "天天基金网",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_OMVM81B?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526588&Signature=tCyaeijhzf%2B3xMx0IP3Nd3h8Vms%3D",
+                "groupName": "天天基金网截屏",
+                "dirName": "/eastmoney"
+            },
+            {
+                "appId": 145,
+                "packageName": "com.meitu.meipaimv",
+                "appName": "美拍",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_IOUS7Z6?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522071&Signature=p8nd3PNaQCmh1eNbGl9B1mYhj9U%3D",
+                "groupName": "美拍截屏"
+            },
+            {
+                "appId": 146,
+                "packageName": "com.pape.nuannew.cm.mitalk",
+                "appName": "暖暖环游世界",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_8FXDK8H?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526562&Signature=oWQx7qGN7akBjpRGZDn6LRUakOA%3D",
+                "groupName": "暖暖环游世界截屏",
+                "dirName": "/NuanNuanNew"
+            },
+            {
+                "appId": 147,
+                "packageName": "com.tencent.ttpic",
+                "appName": "天天P图",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_MCCD3OQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432521701&Signature=pNGYL92CHGypyMCunhw6yAbaWh0%3D",
+                "groupName": "天天P图截屏",
+                "dirName": "/Pitu"
+            },
+            {
+                "appId": 148,
+                "packageName": "com.ohsame.android",
+                "appName": "same",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_UPJSSWT?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526553&Signature=qeLXjj0U5mU5GqMrwVib%2Fiv7ajY%3D",
+                "groupName": "same截屏",
+                "dirName": "/OhSame"
+            },
+            {
+                "appId": 149,
+                "packageName": "com.breadtrip",
+                "appName": "面包旅行",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_A9W4CFI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432522017&Signature=fNPF8c7HPilchP1Wb0SAB7IYbTw%3D",
+                "groupName": "面包旅行截屏",
+                "dirName": "/DCIM/面包旅行"
+            },
+            {
+                "appId": 150,
+                "packageName": "com.mymoney",
+                "appName": "随手记",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GLNN6IY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432521944&Signature=BhLouZxXkSzzf4lKha14FeS0DWA%3D",
+                "groupName": "随手记截屏",
+                "dirName": "/.mymoney"
+            },
+            {
+                "appId": 151,
+                "packageName": "com.qq.reader",
+                "appName": "QQ阅读",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_RA8ASVO?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432521966&Signature=dD5Qczx%2FIYaPMTsU%2B%2BYCqwbcMrM%3D",
+                "groupName": "QQ阅读截屏",
+                "dirName": "/QQReader"
+            },
+            {
+                "appId": 171,
+                "packageName": "fm.xiami.main",
+                "appName": "虾米音乐",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_RXKYEBY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484754&Signature=gaecFp6Lg8Vl5YlVomdFy6W9%2BHo%3D",
+                "groupName": "虾米音乐截屏",
+                "dirName": "/xiami"
+            },
+            {
+                "appId": 169,
+                "packageName": "com.android.launcher",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_O6ZA6F4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432606751&Signature=4ysfeTCp86ZffMJniH6YKknw1GM%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 168,
+                "packageName": "com.huawei.android.launcher",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_4PRKJLB?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432606600&Signature=twxSvk7AdcOwY8PZ%2FU1%2BBoAECxM%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 175,
+                "packageName": "com.tencent.map",
+                "appName": "腾讯地图",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_DL8KG8O?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484853&Signature=jFFxnWvh%2BFK218ejo3rGKbktUzU%3D",
+                "groupName": "腾讯地图截屏",
+                "dirName": "/SOSOMap"
+            },
+            {
+                "appId": 174,
+                "packageName": "com.boohee.one",
+                "appName": "薄荷",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_1KKUL83?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484822&Signature=sHVF%2Fs2HNioCMWAZLmoseQ70DCs%3D",
+                "groupName": "薄荷截屏"
+            },
+            {
+                "appId": 173,
+                "packageName": "me.chunyu.ChuyuDoctor",
+                "appName": "春雨医生",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_L9HKB9U?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484814&Signature=Sic%2BvaxT3pPFRWL7wvH4RR1%2FvT0%3D",
+                "groupName": "春雨医生截屏",
+                "dirName": "/.ChunyuDoctor"
+            },
+            {
+                "appId": 172,
+                "packageName": "com.ting.mp3.android",
+                "appName": "百度音乐",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_M2FRRCY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484771&Signature=14af5Ctrz44ZnYh9134aIU7UyQU%3D",
+                "groupName": "百度音乐截屏",
+                "dirName": "/Baidu_music"
+            },
+            {
+                "appId": 163,
+                "packageName": "com.brianbaek.popstar",
+                "appName": "PopStar消灭星星",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_65TPQQ7?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432525972&Signature=Fs6WoqqDqfANI2zMO92GV7cyGh8%3D",
+                "groupName": "PopStar消灭星星截屏"
+            },
+            {
+                "appId": 162,
+                "packageName": "com.baidu.travel",
+                "appName": "百度旅游",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XTZ45GF?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432525988&Signature=VXBv87M0uDbak9kXFEFVdHzcRjo%3D",
+                "groupName": "百度旅游截屏",
+                "dirName": "/BaiduLvyou"
+            },
+            {
+                "appId": 161,
+                "packageName": "com.flightmanager.view",
+                "appName": "航班管家",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_FLB6YI9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432525998&Signature=WegkWE1yOvfNXcgtA0NAUaG7R1Y%3D",
+                "groupName": "航班管家截屏",
+                "dirName": "/flightmanager"
+            },
+            {
+                "appId": 160,
+                "packageName": "ctrip.android.view",
+                "appName": "携程旅行",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_PX9ESSK?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432526502&Signature=lAPJNP0H3QsPPqiyQTp1lx3zcEI%3D",
+                "groupName": "携程旅行截屏",
+                "dirName": "/Ctrip"
+            },
+            {
+                "appId": 167,
+                "packageName": "com.sec.android.app.launcher",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XHSU1JB?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432606564&Signature=t%2BHF6aW9Gbl5wFUWg8%2B7boNOqx4%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 166,
+                "packageName": "com.miui.home",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Y5G5HIX?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432606446&Signature=GSG4z%2Bqyb0LGJYqvy1FPsbDocfk%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 165,
+                "packageName": "com.lenovo.launcher",
+                "appName": "系统",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_BVHP2JQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432538862&Signature=7F%2B9L7OhHGPJ%2FN2ewnMUSb0uRbQ%3D",
+                "groupName": "系统截屏"
+            },
+            {
+                "appId": 164,
+                "packageName": "com.yetang",
+                "appName": "野糖",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_LO9RM9C?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3432525940&Signature=fC7jzEQhB7L%2Fsj5CjZXweW%2FgdtM%3D",
+                "groupName": "野糖截屏"
+            },
+            {
+                "appId": 186,
+                "packageName": "com.android.comicsisland.activity",
+                "appName": "漫画岛",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_M81ANB4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485172&Signature=SIYPNL%2BNoyT%2Fxi0Hd53PnXDXzm4%3D",
+                "groupName": "漫画岛截屏",
+                "dirName": "/manhuadao"
+            },
+            {
+                "appId": 187,
+                "packageName": "cn.ibuka.manga.ui",
+                "appName": "布卡漫画",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3SW4RU4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485179&Signature=C8Mxu%2B7e%2F%2FsMY5CRgcwezQzzZWI%3D",
+                "groupName": "布卡漫画截屏",
+                "dirName": "/ibuka"
+            },
+            {
+                "appId": 184,
+                "packageName": "com.hupu.games",
+                "appName": "虎扑看球",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_WGUDUIY?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485145&Signature=uotuIAB1ydFz3uZrjgl9MiPxmAQ%3D",
+                "groupName": "虎扑看球截屏",
+                "dirName": "/hupu"
+            },
+            {
+                "appId": 185,
+                "packageName": "co.runner.app",
+                "appName": "悦跑圈",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_KHFQQOF?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485137&Signature=A2HO5lfkVjnL29YijGxr7RZRrrU%3D",
+                "groupName": "悦跑圈截屏",
+                "dirName": "/linked-joyrun"
+            },
+            {
+                "appId": 190,
+                "packageName": "com.evernote",
+                "appName": "印象笔记",
+                "appName_en": "Evernote",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_J1U6WBW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485220&Signature=sWs4MryXHHauqbokLHQWYLS2b4Y%3D",
+                "groupName": "印象笔记截屏",
+                "dirName": "/Pictures/EVERNOTE"
+            },
+            {
+                "appId": 191,
+                "packageName": "com.intsig.BizCardReader",
+                "appName": "名片全能王",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_EDHTR56?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485233&Signature=nLH%2FnHo8H8%2B6NOEEYqy17%2FAxd8w%3D",
+                "groupName": "名片全能王截屏",
+                "dirName": "/bcr"
+            },
+            {
+                "appId": 188,
+                "packageName": "com.intsig.camscanner",
+                "appName": "扫描全能王",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_XR5Y7SG?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485193&Signature=rMJ%2Fovp03PGJp%2FnnRrwjctQHPCw%3D",
+                "groupName": "扫描全能王截屏",
+                "dirName": "/CamScanner"
+            },
+            {
+                "appId": 189,
+                "packageName": "com.taou.maimai",
+                "appName": "脉脉",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_HCCDB9K?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485208&Signature=b27YWDMAaWKhc87AO2%2BxG%2FIJZ2E%3D",
+                "groupName": "脉脉截屏",
+                "dirName": "/com.taou.maimai"
+            },
+            {
+                "appId": 178,
+                "packageName": "com.fenbi.android.gaozhong",
+                "appName": "猿题库",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_42WWZA4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484904&Signature=ZTZdMBiQPhoMah5%2FNvk1f46GH%2Bw%3D",
+                "groupName": "猿题库截屏"
+            },
+            {
+                "appId": 179,
+                "packageName": "com.baidu.homework",
+                "appName": "作业帮",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3CTYGE3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484915&Signature=nCQgLhA6gDxXsLRCXldrJtiwEc8%3D",
+                "groupName": "作业帮截屏"
+            },
+            {
+                "appId": 176,
+                "packageName": "com.fenbi.android.solar",
+                "appName": "小猿搜题",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_TCR7O4P?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484871&Signature=6seN34Lbl1qDaO1K44C5MShxSOg%3D",
+                "groupName": "小猿搜题截屏"
+            },
+            {
+                "appId": 177,
+                "packageName": "com.wenba.bangbang",
+                "appName": "学霸君",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_Z58GKOM?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484889&Signature=Sw4sgb6seNzMjVTZTOnbFHmDI1w%3D",
+                "groupName": "学霸君截屏",
+                "dirName": "/.com.wenda.bangbang"
+            },
+            {
+                "appId": 182,
+                "packageName": "com.ifeng.news2",
+                "appName": "凤凰新闻",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_36UTIQB?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485094&Signature=bsZZYG71QJ48U9ics22YTdRJ%2BAM%3D",
+                "groupName": "凤凰新闻截屏"
+            },
+            {
+                "appId": 183,
+                "packageName": "com.codoon.gps",
+                "appName": "咕咚",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CF4MSJ4?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485101&Signature=8E7pc6XXVjM688uTKFU0hLwI9gQ%3D",
+                "groupName": "咕咚截屏",
+                "dirName": "/codoonsports"
+            },
+            {
+                "appId": 180,
+                "packageName": "com.hexin.plat.android",
+                "appName": "同花顺",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_9BNAKLZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433484926&Signature=9BKlQ7I8nhJ%2B%2BddFgF7sXipcIBU%3D",
+                "groupName": "同花顺截屏"
+            },
+            {
+                "appId": 181,
+                "packageName": "com.jiecao.news.jiecaonews",
+                "appName": "节操精选",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_2CT1TTB?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485071&Signature=tu79fBI3TniSN0Z9YGZIvcgbAeg%3D",
+                "groupName": "节操精选截屏",
+                "dirName": "/jiecao"
+            },
+            {
+                "appId": 205,
+                "packageName": "com.wumii.android.mimi",
+                "appName": "无秘",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CMW71GE?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485455&Signature=9Qs0dyUE3hLb5AkflZA4Rn4q23w%3D",
+                "groupName": "无秘截屏",
+                "dirName": "/mimi"
+            },
+            {
+                "appId": 204,
+                "packageName": "com.qihoo.appstore",
+                "appName": "360手机助手",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_AUZWMBR?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485446&Signature=%2FjPvtDu8km4GV4pKdw9BfUowrYA%3D",
+                "groupName": "360手机助手截屏",
+                "dirName": "/360Download"
+            },
+            {
+                "appId": 207,
+                "packageName": "com.qq.ac.android",
+                "appName": "腾讯动漫",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_F9N9CA6?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485480&Signature=HijzuXv%2BnlqmMcg2bHWk%2F0qhg2A%3D",
+                "groupName": "腾讯动漫截屏",
+                "dirName": "/.qqcomic"
+            },
+            {
+                "appId": 206,
+                "packageName": "com.ifeng.newvideo",
+                "appName": "凤凰视频",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_4H55FIP?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485463&Signature=%2BStfVxF8ihD7m1YyQk0IcLmt90g%3D",
+                "groupName": "凤凰视频截屏",
+                "dirName": "ifengvideo"
+            },
+            {
+                "appId": 201,
+                "packageName": "com.tencent.android.qqdownloader",
+                "appName": "应用宝",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_CR6V7Q3?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485353&Signature=0C9IXHleKUJ1jcRYNBOmT8rwxjE%3D",
+                "groupName": "应用宝截屏",
+                "dirName": "tencent/tassistant"
+            },
+            {
+                "appId": 200,
+                "packageName": "com.xiaomi.market",
+                "appName": "小米应用商店",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_N1KBX2U?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485340&Signature=keYhgerYttzABO%2FV63Elgb7Y4U4%3D",
+                "groupName": "小米应用商店截屏",
+                "dirName": "/MiMarket"
+            },
+            {
+                "appId": 203,
+                "packageName": "com.baidu.appsearch",
+                "appName": "百度手机助手",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GNI2Z84?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485369&Signature=hOhjBNUsDinTRaHdl66kWG5UcpE%3D",
+                "groupName": "百度手机助手截屏",
+                "dirName": "/baidu"
+            },
+            {
+                "appId": 202,
+                "packageName": "com.wandoujia.phoenix2",
+                "appName": "豌豆荚",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_U9UMVXC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485362&Signature=ToF%2FmzaqtLb0kvP08l7Lf4XN0Rc%3D",
+                "groupName": "豌豆荚截屏",
+                "dirName": "/wandoujia"
+            },
+            {
+                "appId": 197,
+                "packageName": "com.autonavi.minimap",
+                "appName": "高德地图",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_3DWVW3G?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485307&Signature=6OpY6p8N7XIRwX0zJqMu2ywt1Ms%3D",
+                "groupName": "高德地图截屏",
+                "dirName": "/autonavi"
+            },
+            {
+                "appId": 196,
+                "packageName": "com.jiuyan.infashion",
+                "appName": "in",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_1FPMJZS?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485285&Signature=mx3XgAPJ2LxdAx8kQX1KWhNoXIU%3D",
+                "groupName": "in截屏",
+                "dirName": "/Pictures/INFile"
+            },
+            {
+                "appId": 199,
+                "packageName": "com.ustwo.monumentvalleyzz",
+                "appName": "纪念碑谷",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_HUL2HAT?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485325&Signature=cB5Hi9NfpE4uCMXmkQmvOVnDD0Q%3D",
+                "groupName": "纪念碑谷截屏"
+            },
+            {
+                "appId": 198,
+                "packageName": "com.linekong.cjad.mi",
+                "appName": "十万个冷笑话",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_R879YT2?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485318&Signature=wQZma4B6uv4HdR775ugnQMBGd1s%3D",
+                "groupName": "十万个冷笑话截屏"
+            },
+            {
+                "appId": 193,
+                "packageName": "com.chanyouji.birth",
+                "appName": "生辰",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_GYWSJAS?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485254&Signature=Ws2ICMr7A4Fba2aV3xC6HtHwp78%3D",
+                "groupName": "生辰截屏",
+                "dirName": "/com.chanyouji.birth"
+            },
+            {
+                "appId": 192,
+                "packageName": "com.yixia.videoeditor",
+                "appName": "秒拍",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_8ZOVC4R?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485245&Signature=TWjmNlevYNhXaK8ejAqiwBmZBCQ%3D",
+                "groupName": "秒拍截屏",
+                "dirName": "/miaopai"
+            },
+            {
+                "appId": 195,
+                "packageName": "com.tencent.WeFire",
+                "appName": "全民突击",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_UL31887?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485275&Signature=dKAJiUsIRpS8m1AzEpTX3orhQNM%3D",
+                "groupName": "全民突击截屏"
+            },
+            {
+                "appId": 194,
+                "packageName": "com.tencent.tmgp.qjnn",
+                "appName": "奇迹暖暖",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_RA7P73S?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485265&Signature=OLypygG7TvthDsU6jb7NuKB8MNc%3D",
+                "groupName": "奇迹暖暖截屏",
+                "dirName": "/NuanNuan3"
+            },
+            {
+                "appId": 208,
+                "packageName": "com.u17.comic.phone",
+                "appName": "有妖气漫画",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_1HZX8L9?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485502&Signature=fVUHUKYk4jV16EpWNOsanEGKf38%3D",
+                "groupName": "有妖气漫画截屏",
+                "dirName": "/u17phone"
+            },
+            {
+                "appId": 209,
+                "packageName": "com.youdao.note",
+                "appName": "有道云笔记",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "groupName": "有道云笔记截屏",
+                "dirName": "/.YoudaoNote"
+            },
+            {
+                "appId": 210,
+                "packageName": "com.taobao.trip",
+                "appName": "阿里旅行",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/Android/data/com.taobao.trip"
+            },
+            {
+                "appId": 211,
+                "packageName": "com.xiaomi.shop",
+                "appName": "小米商城",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/mishop"
+            },
+            {
+                "appId": 212,
+                "packageName": "com.duokan.reader",
+                "appName": "多看阅读",
+                "appName_en": "Reader",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/DuoKan"
+            },
+            {
+                "appId": 213,
+                "packageName": "cn.wps.moffice_eng",
+                "appName": "WPS Office",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/Android/data/cn.wps.moffice_eng"
+            },
+            {
+                "appId": 214,
+                "packageName": "com.yidian.xiaomi",
+                "appName": "新闻资讯",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/Android/data/com.yidian.xiaomi"
+            },
+            {
+                "appId": 215,
+                "packageName": "com.xiaomi.o2o",
+                "appName": "小米生活",
+                "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
+                "dirName": "/Android/data/com.xiaomi.o2o"
+            }
+        ],
+        "appDirs": [
+            {
+                "appId": 68,
+                "dirId": "18076037709825025",
+                "dirName": "/MIUI/theme",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI主题",
+                "directName_en": "Motywy MIUI",
+                "state": "disable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18080729695257601",
+                "dirName": "/MiMarket/files",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "应用商店安装包",
+                "directName_en": "APKs from MI App Store",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18076028870591489",
+                "dirName": "/MIUI/alarms",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闹钟",
+                "directName_en": "Alarmy MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18076022957933569",
+                "dirName": "/MIUI/notifications",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI提示音",
+                "directName_en": "Powiadomienia MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18076015583036417",
+                "dirName": "/MIUI/ringtone",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "铃声",
+                "directName_en": "Dzwonki MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18103240224408577",
+                "dirName": "/MIUI/lockscreen",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "锁屏壁纸",
+                "directName_en": "Tapety MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 66,
+                "dirId": "18103286529262593",
+                "dirName": "/hao123/down/image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "上网导航图片",
+                "directName_en": "Zdjęcia z 上网导航",
+                "state": "enable"
+            },
+            {
+                "appId": 63,
+                "dirId": "18103336092828673",
+                "dirName": "/SohuNewsDown",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "搜狐新闻图片",
+                "directName_en": "Zdjęcia z Sohu News",
+                "state": "enable"
+            },
+            {
+                "appId": 62,
+                "dirId": "18103493794464769",
+                "dirName": "/Pictures/TencentNews",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "腾讯新闻图片",
+                "directName_en": "Zdjęcia z Tencent news",
+                "state": "enable"
+            },
+            {
+                "appId": 65,
+                "dirId": "18103317731214337",
+                "dirName": "/Pictures/netease/newsreader",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易新闻图片",
+                "directName_en": "Zdjęcia z 网易新闻",
+                "state": "enable"
+            },
+            {
+                "appId": 55,
+                "dirId": "18103788726387713",
+                "dirName": "/Downloads",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "系统下载文件",
+                "directName_en": "Pobrane",
+                "state": "enable"
+            },
+            {
+                "appId": 55,
+                "dirId": "18103799055647745",
+                "dirName": "/Download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "系统下载文件",
+                "directName_en": "Pobrane",
+                "state": "enable"
+            },
+            {
+                "appId": 60,
+                "dirId": "18103755125031937",
+                "dirName": "/Netease/163mail/网易邮箱",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易邮箱文件",
+                "directName_en": "Pliki z NetEase Mail",
+                "state": "enable"
+            },
+            {
+                "appId": 61,
+                "dirId": "18103586604975105",
+                "dirName": "/Pictures/知乎",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "知乎图片",
+                "directName_en": "Zdjęcia z 知乎",
+                "state": "enable"
+            },
+            {
+                "appId": 58,
+                "dirId": "18103924343702529",
+                "dirName": "/miliao/images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "米聊图片",
+                "directName_en": "Zdjęcia z 米聊",
+                "state": "enable"
+            },
+            {
+                "appId": 57,
+                "dirId": "18104284046951425",
+                "dirName": "/mogujie/transformer/mogujie",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "蘑菇街图片",
+                "directName_en": "Zdjęcia z 蘑菇街",
+                "state": "enable"
+            },
+            {
+                "appId": 56,
+                "dirId": "18104290099856385",
+                "dirName": "/美丽说",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "美丽说图片",
+                "directName_en": "Zdjęcia z 美丽说",
+                "state": "enable"
+            },
+            {
+                "appId": 54,
+                "dirId": "18104679210157057",
+                "dirName": "/Pictures/Douban",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "豆瓣图片",
+                "directName_en": "Zdjęcia z 豆瓣",
+                "state": "enable"
+            },
+            {
+                "appId": 54,
+                "dirId": "18104652561646593",
+                "dirName": "/Android/data/com.douban.frodo/cache/images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "豆瓣广播发布图片",
+                "directName_en": "Zdjęcia z 豆瓣广播",
+                "state": "enable"
+            },
+            {
+                "appId": 53,
+                "dirId": "17921762485076993",
+                "dirName": "/downloaded_rom",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI升级包",
+                "directName_en": "Aktualizacje OTA",
+                "state": "enable"
+            },
+            {
+                "appId": 52,
+                "dirId": "18104750461682689",
+                "dirName": "/截屏",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "截屏",
+                "directName_en": "Zrzuty ekranu",
+                "state": "enable"
+            },
+            {
+                "appId": 52,
+                "dirId": "18104762704593921",
+                "dirName": "/DCIM/Screenshots",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "截屏",
+                "directName_en": "Zrzuty ekranu",
+                "state": "enable"
+            },
+            {
+                "appId": 52,
+                "dirId": "18104758386557953",
+                "dirName": "/Photo/Screenshots",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "截屏",
+                "directName_en": "Zrzuty ekranu",
+                "state": "enable"
+            },
+            {
+                "appId": 52,
+                "dirId": "18104754225284097",
+                "dirName": "/Pictures/Screenshots",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "截屏",
+                "directName_en": "Zrzuty ekranu",
+                "state": "enable"
+            },
+            {
+                "appId": 51,
+                "dirId": "18079282412651521",
+                "dirName": "/Download/Bluetooth",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "蓝牙接收文件",
+                "directName_en": "Bluetooth",
+                "state": "enable"
+            },
+            {
+                "appId": 51,
+                "dirId": "18076978528125953",
+                "dirName": "/Bluetooth",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "蓝牙接收文件",
+                "directName_en": "Bluetooth",
+                "state": "enable"
+            },
+            {
+                "appId": 51,
+                "dirId": "17920461529416705",
+                "dirName": "/bluetooth",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "蓝牙接收文件",
+                "directName_en": "Bluetooth",
+                "state": "enable"
+            },
+            {
+                "appId": 50,
+                "dirId": "18105030603441153",
+                "dirName": "/Pictures/maoyan",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "猫眼电影图片",
+                "directName_en": "Zdjęcia z 猫眼电影",
+                "state": "enable"
+            },
+            {
+                "appId": 49,
+                "dirId": "18105305195086849",
+                "dirName": "/QQBrowser/图片收藏",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ浏览器图片",
+                "directName_en": "Zdjęcia z QQ Browser",
+                "state": "enable"
+            },
+            {
+                "appId": 44,
+                "dirId": "18105609532474369",
+                "dirName": "/dianping",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "大众点评图片",
+                "directName_en": "Zdjęcia z 大众点评",
+                "state": "enable"
+            },
+            {
+                "appId": 42,
+                "dirId": "18105615058994177",
+                "dirName": "/DCIM/jdimage",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "京东图片",
+                "directName_en": "Zdjęcia z JD.COM",
+                "state": "enable"
+            },
+            {
+                "appId": 42,
+                "dirId": "18105615058994178",
+                "dirName": "/Pictures/JDStory",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "京东图片",
+                "directName_en": "Zdjęcia z JD.COM",
+                "state": "enable"
+            },
+            {
+                "appId": 64,
+                "dirId": "17923989339636737",
+                "dirName": "/DCIM/Camera",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "手机照片",
+                "directName_en": "Zdjęcia z aparatu",
+                "state": "enable"
+            },
+            {
+                "appId": 22,
+                "dirId": "18122314159752193",
+                "dirName": "/baidu/searchbox/downloads",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "手机百度下载文件",
+                "directName_en": "Pliki z Baidu",
+                "state": "enable"
+            },
+            {
+                "appId": 21,
+                "dirId": "18124571654751233",
+                "dirName": "/Android/obb/com.xunlei.downloadprovider",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "迅雷下载文件",
+                "directName_en": "Downloads from 迅雷",
+                "state": "enable"
+            },
+            {
+                "appId": 17,
+                "dirId": "18124786781127681",
+                "dirName": "/gifshow",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快手gif动画",
+                "directName_en": "GIF from 快手",
+                "state": "enable"
+            },
+            {
+                "appId": 16,
+                "dirId": "18124795636876289",
+                "dirName": "/UCDownloads",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "UC浏览器下载文件",
+                "directName_en": "UC Browser downloads",
+                "state": "enable"
+            },
+            {
+                "appId": 14,
+                "dirId": "18124826451117057",
+                "dirName": "/news_article",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "今日头条图片",
+                "directName_en": "Zdjęcia z 今日头条",
+                "state": "enable"
+            },
+            {
+                "appId": 8,
+                "dirId": "18124862252647425",
+                "dirName": "/Pictures/taobao",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "淘宝图片",
+                "directName_en": "Zdjęcia z 淘宝",
+                "state": "enable"
+            },
+            {
+                "appId": 4,
+                "dirId": "18125040657630209",
+                "dirName": "/tencent/QQ_Images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ图片",
+                "directName_en": "Zdjęcia z QQ",
+                "state": "enable"
+            },
+            {
+                "appId": 4,
+                "dirId": "18125035219452929",
+                "dirName": "/tencent/QQ_Collection/pic",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ收藏图片",
+                "directName_en": "QQ Collections",
+                "state": "enable"
+            },
+            {
+                "appId": 4,
+                "dirId": "18125061880808449",
+                "dirName": "/tencent/QQfile_recv",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ接收文件",
+                "directName_en": "QQ Received",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18076004648223745",
+                "dirName": "/MIUI/wallpaper",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "壁纸",
+                "directName_en": "Tapety MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18125222448464897",
+                "dirName": "/MIUI/sound_recorder",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "录音",
+                "directName_en": "Dyktafon MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 3,
+                "dirId": "17834663447626753",
+                "dirName": "/tencent/MicroMsg/Download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "微信接收文件",
+                "directName_en": "Files Received from WeChat",
+                "state": "enable"
+            },
+            {
+                "appId": 3,
+                "dirId": "18125239068132353",
+                "dirName": "/tencent/MicroMsg/WeiXin",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "微信保存文件",
+                "directName_en": "Pliki zapisane z WeChat",
+                "state": "enable"
+            },
+            {
+                "appId": 3,
+                "dirId": "18125239068132354",
+                "dirName": "/tencent/MicroMsg/Wechat",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "微信保存文件",
+                "directName_en": "Pliki zapisane z WeChat",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18125751802135553",
+                "dirName": "/MIUI/Gallery/DemoVideo",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "示例视频",
+                "directName_en": "MIUI Demo Videos",
+                "state": "enable"
+            },
+            {
+                "appId": 18,
+                "dirId": "18125846440313857",
+                "dirName": "/qqmusic/song",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ音乐",
+                "directName_en": "QQ Music",
+                "state": "enable"
+            },
+            {
+                "appId": 11,
+                "dirId": "18125944135353345",
+                "dirName": "/kgmusic/download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "酷狗音乐",
+                "directName_en": "Music from 酷狗音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 5,
+                "dirId": "18124874937271297",
+                "dirName": "/sina/weibo/weibo",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "微博图片",
+                "directName_en": "Zdjęcia z 微博",
+                "state": "enable"
+            },
+            {
+                "appId": 3,
+                "dirId": "18126173902996481",
+                "dirName": "/tencent/MicroMsg",
+                "dirType": "1",
+                "subDirFlag": "101",
+                "subDirName": "/[0-9a-z]{32}/favorite/[0-9a-z]{32}",
+                "directName": "微信收藏文件",
+                "directName_en": "WeChat Collections",
+                "state": "disable"
+            },
+            {
+                "appId": 94,
+                "dirId": "18126934610019329",
+                "dirName": "/DCIM/100PINT/Pins",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Pinterest图片",
+                "directName_en": "Zdjęcia z Pinterest",
+                "state": "disable"
+            },
+            {
+                "appId": 93,
+                "dirId": "18126625798620161",
+                "dirName": "/DCIM/CandyCam",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "糖果照相机",
+                "directName_en": "Zdjęcia z 糖果照相机",
+                "state": "disable"
+            },
+            {
+                "appId": 88,
+                "dirId": "18126486460433409",
+                "dirName": "/Pictures/B612",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "B612图片",
+                "directName_en": "Zdjęcia z B612",
+                "state": "disable"
+            },
+            {
+                "appId": 82,
+                "dirId": "18126444438488065",
+                "dirName": "/Snapseed",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Snapseed图片",
+                "directName_en": "Zdjęcia z Snapseed",
+                "state": "disable"
+            },
+            {
+                "appId": 81,
+                "dirId": "18126433068516353",
+                "dirName": "/Pictures/Twitter",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Twitter图片",
+                "directName_en": "Zdjęcia z Twitter",
+                "state": "disable"
+            },
+            {
+                "appId": 75,
+                "dirId": "18126372410754049",
+                "dirName": "/viber/media/User photos",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Viber图片",
+                "directName_en": "Zdjęcia z Viber",
+                "state": "disable"
+            },
+            {
+                "appId": 74,
+                "dirId": "18126237053748225",
+                "dirName": "/Pictures/Instagram",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Instagram图片",
+                "directName_en": "Zdjęcia z Instagram",
+                "state": "disable"
+            },
+            {
+                "appId": 72,
+                "dirId": "18125881636815873",
+                "dirName": "/Pictures/Messenger",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Messenger图片",
+                "directName_en": "Zdjęcia z Messenger",
+                "state": "disable"
+            },
+            {
+                "appId": 71,
+                "dirId": "18125865756394497",
+                "dirName": "/DCIM/Facebook",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Facebook图片",
+                "directName_en": "Zdjęcia z Facebook",
+                "state": "disable"
+            },
+            {
+                "appId": 20,
+                "dirId": "18126997827879937",
+                "dirName": "/BaiduNetdisk",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度云文件",
+                "directName_en": "Pliki z 百度云",
+                "state": "enable"
+            },
+            {
+                "appId": 95,
+                "dirId": "18127019179770881",
+                "dirName": "/Android/data/com.ted.android/files",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "TED图片",
+                "directName_en": "Zdjęcia z TED",
+                "state": "disable"
+            },
+            {
+                "appId": 66,
+                "dirId": "18143944080360449",
+                "dirName": "/baidu/flyflow/downloads",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "上网导航图片",
+                "directName_en": "Zdjęcia z 上网导航",
+                "state": "enable"
+            },
+            {
+                "appId": 49,
+                "dirId": "18143996589376513",
+                "dirName": "/QQBrowser/安装包",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ浏览器安装包",
+                "directName_en": "APKs from QQ Browser",
+                "state": "enable"
+            },
+            {
+                "appId": 49,
+                "dirId": "18144000821429249",
+                "dirName": "/QQBrowser/视频",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "QQ浏览器视频",
+                "directName_en": "Videos from QQ Browser",
+                "state": "enable"
+            },
+            {
+                "appId": 12,
+                "dirId": "18144058863518721",
+                "dirName": "/netease/cloudmusic/Music",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易云音乐",
+                "directName_en": "NetEase Music",
+                "state": "enable"
+            },
+            {
+                "appId": 12,
+                "dirId": "18144058863518722",
+                "dirName": "/netease/cloudmusic/MV",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易云音乐MV",
+                "directName_en": "MVs from NetEase Music",
+                "state": "enable"
+            },
+            {
+                "appId": 12,
+                "dirId": "18144058863518723",
+                "dirName": "/netease/cloudmusic/Dj",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易云音乐电台",
+                "directName_en": "Radios from NetEase Music",
+                "state": "enable"
+            },
+            {
+                "appId": 12,
+                "dirId": "18144049769743361",
+                "dirName": "/netease/cloudmusic/网易云音乐相册",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "网易云音乐图片",
+                "directName_en": "Zdjęcia z NetEase Music",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18147456285148161",
+                "dirName": "/MIUI/Music/mp3_hd",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI音乐",
+                "directName_en": "Muzyka MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18076034038498305",
+                "dirName": "/MIUI/Music/mp3",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI音乐",
+                "directName_en": "Muzyka MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 15,
+                "dirId": "18124799991088129",
+                "dirName": "/Pictures/meituan",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "美团团购图片",
+                "directName_en": "Zdjęcia z 美团团购",
+                "state": "enable"
+            },
+            {
+                "appId": 7,
+                "dirId": "18124866652210177",
+                "dirName": "/immomo/camera",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "陌陌图片",
+                "directName_en": "Zdjęcia z 陌陌",
+                "state": "enable"
+            },
+            {
+                "appId": 3,
+                "dirId": "18169593651266561",
+                "dirName": "/tencent/MicroMsg",
+                "dirType": "1",
+                "subDirFlag": "10",
+                "subDirName": "/[0-9a-z]{32}/video",
+                "directName": "微信视频",
+                "directName_en": "Videos from WeChat",
+                "state": "enable"
+            },
+            {
+                "appId": 21,
+                "dirId": "18124561926587393",
+                "dirName": "/ThunderDownload",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "迅雷下载文件",
+                "directName_en": "Downloads from 迅雷",
+                "state": "enable"
+            },
+            {
+                "appId": 91,
+                "dirId": "18943028575601897",
+                "dirName": "/mirror_image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "Mirror Image",
+                "directName_en": "Mirror Image",
+                "state": "enable"
+            },
+            {
+                "appId": 68,
+                "dirId": "18170380037653505",
+                "dirName": "/MIUI/Music/mp3_uhd",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "MIUI音乐",
+                "directName_en": "Muzyka MIUI",
+                "state": "enable"
+            },
+            {
+                "appId": 97,
+                "dirId": "18943020615861249",
+                "dirName": "/360Browser/download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "360浏览器下载文件",
+                "state": "enable"
+            },
+            {
+                "appId": 98,
+                "dirId": "18943032963892225",
+                "dirName": "/SogouSearch/download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "搜狗搜索下载文件",
+                "state": "enable"
+            },
+            {
+                "appId": 98,
+                "dirId": "18943028575601665",
+                "dirName": "/SogouSearch/download/images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "搜狗搜索图片",
+                "state": "enable"
+            },
+            {
+                "appId": 99,
+                "dirId": "18943082876896257",
+                "dirName": "/QieZi/files",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "茄子快传接收文档",
+                "state": "enable"
+            },
+            {
+                "appId": 99,
+                "dirId": "18943078631212033",
+                "dirName": "/QieZi/videos",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "茄子快传接收视频",
+                "state": "enable"
+            },
+            {
+                "appId": 99,
+                "dirId": "18943074508997633",
+                "dirName": "/QieZi/audios",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "茄子快传接收音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 99,
+                "dirId": "18943068938175489",
+                "dirName": "/QieZi/apps",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "茄子快传接收安装包",
+                "state": "enable"
+            },
+            {
+                "appId": 99,
+                "dirId": "18943065672647681",
+                "dirName": "/QieZi/pictures",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "茄子快传接收图片",
+                "state": "enable"
+            },
+            {
+                "appId": 100,
+                "dirId": "18943107313959937",
+                "dirName": "/zapya/misc",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快牙接收文档",
+                "state": "enable"
+            },
+            {
+                "appId": 100,
+                "dirId": "18943103721276417",
+                "dirName": "/zapya/video",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快牙接收视频",
+                "state": "enable"
+            },
+            {
+                "appId": 100,
+                "dirId": "18943099725415425",
+                "dirName": "/zapya/music",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快牙接收音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 100,
+                "dirId": "18943096105468929",
+                "dirName": "/zapya/app",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快牙接收安装包",
+                "state": "enable"
+            },
+            {
+                "appId": 100,
+                "dirId": "18943090484052993",
+                "dirName": "/zapya/photo",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "快牙接收图片",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943144757036033",
+                "dirName": "/Xender/video",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收视频",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943139701064705",
+                "dirName": "/Xender/other",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收文档",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943134969365505",
+                "dirName": "/Xender/audio",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943130633503745",
+                "dirName": "/Xender/app",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收安装包",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943126235513857",
+                "dirName": "/闪传收件箱/图片",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收图片",
+                "state": "enable"
+            },
+            {
+                "appId": 101,
+                "dirId": "18943122340578305",
+                "dirName": "/Xender/image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "闪传接收图片",
+                "state": "enable"
+            },
+            {
+                "appId": 103,
+                "dirId": "18943154849055745",
+                "dirName": "/ahprice/save",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "汽车报价图片",
+                "state": "enable"
+            },
+            {
+                "appId": 104,
+                "dirId": "18943315188384769",
+                "dirName": "/haodou/recipe/covers",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "好豆菜谱图片",
+                "state": "enable"
+            },
+            {
+                "appId": 107,
+                "dirId": "18943321706071041",
+                "dirName": "/tieba",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度贴吧图片",
+                "state": "enable"
+            },
+            {
+                "appId": 108,
+                "dirId": "18943328322847745",
+                "dirName": "/tiebaMini",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "贴吧极速版图片",
+                "state": "enable"
+            },
+            {
+                "appId": 115,
+                "dirId": "18943337501819905",
+                "dirName": "/ttpod/song",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "天天动听下载音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 116,
+                "dirId": "18943343915435009",
+                "dirName": "/KuwoMusic/music",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "酷我音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 131,
+                "dirId": "18943352636965889",
+                "dirName": "/yoloho/dayima",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "大姨吗图片",
+                "state": "enable"
+            },
+            {
+                "appId": 133,
+                "dirId": "18943362589787137",
+                "dirName": "/comicool/截屏保存",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "可米酷漫画图片",
+                "state": "enable"
+            },
+            {
+                "appId": 134,
+                "dirId": "18943368036615169",
+                "dirName": "/qsbk/qiushibaike",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "糗事百科图片",
+                "state": "enable"
+            },
+            {
+                "appId": 135,
+                "dirId": "18943372790334465",
+                "dirName": "/joke_essay",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "内涵段子图片",
+                "state": "enable"
+            },
+            {
+                "appId": 136,
+                "dirId": "18943377186227201",
+                "dirName": "/暴走漫画",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "暴走漫画图片",
+                "state": "enable"
+            },
+            {
+                "appId": 146,
+                "dirId": "18943384222958593",
+                "dirName": "/NuanNuanNew/shared",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "暖暖环游世界图片",
+                "state": "enable"
+            },
+            {
+                "appId": 147,
+                "dirId": "18943388320793601",
+                "dirName": "/Pitu",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "天天P图",
+                "state": "enable"
+            },
+            {
+                "appId": 148,
+                "dirId": "18943393330889729",
+                "dirName": "/OhSame/same",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "same图片",
+                "state": "enable"
+            },
+            {
+                "appId": 149,
+                "dirId": "18943398439814145",
+                "dirName": "/DCIM/面包旅行",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "面包旅行图片",
+                "state": "enable"
+            },
+            {
+                "appId": 155,
+                "dirId": "18943404042355713",
+                "dirName": "/budejie",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百思不得姐图片",
+                "state": "enable"
+            },
+            {
+                "appId": 158,
+                "dirId": "18943408396043265",
+                "dirName": "/Pictures/知乎日报",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "知乎日报图片",
+                "state": "enable"
+            },
+            {
+                "appId": 161,
+                "dirId": "18943413410071553",
+                "dirName": "/flightmanager/ShareImage",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "航班管家图片",
+                "state": "enable"
+            },
+            {
+                "appId": 162,
+                "dirId": "18943418302989313",
+                "dirName": "/BaiduLvyou/Image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度旅游图片",
+                "state": "enable"
+            },
+            {
+                "appId": 171,
+                "dirId": "18943433457009665",
+                "dirName": "/xiami/audios",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "虾米音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 172,
+                "dirId": "18943446685844481",
+                "dirName": "/Baidu_music/image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度音乐图片",
+                "state": "enable"
+            },
+            {
+                "appId": 172,
+                "dirId": "18943442799821825",
+                "dirName": "/Baidu_music/offlinecache",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 172,
+                "dirId": "18943438893351937",
+                "dirName": "/Baidu_music/download",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "百度音乐",
+                "state": "enable"
+            },
+            {
+                "appId": 181,
+                "dirId": "18943452448556033",
+                "dirName": "/jiecao/images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "节操精选图片",
+                "state": "enable"
+            },
+            {
+                "appId": 182,
+                "dirId": "18943462666142721",
+                "dirName": "/Pictures/ifeng/download_pic",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "凤凰新闻图片",
+                "state": "enable"
+            },
+            {
+                "appId": 184,
+                "dirId": "18943467889361921",
+                "dirName": "/hupu/games/image",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "虎扑看球图片",
+                "state": "enable"
+            },
+            {
+                "appId": 185,
+                "dirId": "18943477325497345",
+                "dirName": "/linked-joyrun/my_camera",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "悦跑圈图片",
+                "state": "enable"
+            },
+            {
+                "appId": 185,
+                "dirId": "18943473877255169",
+                "dirName": "/linked-joyrun/IMAGE",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "悦跑圈图片",
+                "state": "enable"
+            },
+            {
+                "appId": 186,
+                "dirId": "18943483893253121",
+                "dirName": "/manhuadao/saveimage",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "漫画岛图片",
+                "state": "enable"
+            },
+            {
+                "appId": 187,
+                "dirId": "18943489308886017",
+                "dirName": "/ibuka/my",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "布卡漫画本地漫画",
+                "state": "enable"
+            },
+            {
+                "appId": 188,
+                "dirId": "18943503282996225",
+                "dirName": "/CamScanner/OcrText",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "扫描全能王识别文档",
+                "state": "enable"
+            },
+            {
+                "appId": 188,
+                "dirId": "18943499432625153",
+                "dirName": "/CamScanner/images",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "扫描全能王图片",
+                "state": "enable"
+            },
+            {
+                "appId": 188,
+                "dirId": "18943495489455105",
+                "dirName": "/CamScanner",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "扫描全能王pdf文件",
+                "state": "enable"
+            },
+            {
+                "appId": 190,
+                "dirId": "18943512881398785",
+                "dirName": "/Pictures/EVERNOTE",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "印象笔记图片",
+                "state": "enable"
+            },
+            {
+                "appId": 191,
+                "dirId": "18943522546385921",
+                "dirName": "/bcr/sync_imgs",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "名片全能王图片",
+                "state": "enable"
+            },
+            {
+                "appId": 191,
+                "dirId": "18943518333993985",
+                "dirName": "/bcr/imgs",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "名片全能王图片",
+                "state": "enable"
+            },
+            {
+                "appId": 192,
+                "dirId": "18943532692931585",
+                "dirName": "/DCIM/camera/miaopai",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "秒拍视频",
+                "state": "enable"
+            },
+            {
+                "appId": 194,
+                "dirId": "18943538486838273",
+                "dirName": "/NuanNuan3",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "奇迹暖暖图片",
+                "state": "enable"
+            },
+            {
+                "appId": 196,
+                "dirId": "18943543905879041",
+                "dirName": "/Pictures/INFile",
+                "dirType": "0",
+                "subDirFlag": "",
+                "subDirName": "",
+                "directName": "in图片",
+                "state": "enable"
+            }
+        ]
+    },
+    "maxOpver": "18946517529789460"
+}
